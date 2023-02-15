@@ -5,6 +5,8 @@ draw_set_font(fnt_peaberry)
 draw_set_halign(fa_center)
 draw_set_valign(fa_bottom);
 draw_set_color(c_white)
+
+
 if(place_meeting(x,y,obj_house)){
 	if(find_egg and find_flour and find_milk){
 		if(make_cake){
@@ -34,6 +36,8 @@ and an egg",1.5,1.5,0)
 		}	
 	}
 }
+
+
 if(place_meeting(x,y,obj_cow)){
 
 	if(find_milk){
@@ -60,11 +64,11 @@ if(place_meeting(x,y,obj_mill)){
 	}
 }
 if(find_milk){
-	draw_sprite(sp_milk, 0, cam_x+100, cam_y+cam_h - 50);
+	draw_sprite(sp_milk, 0, wport+100, hport+cam_h - 50);
 }
 if(find_egg){
-	draw_sprite(sp_egg, 0, cam_x+50, cam_y+cam_h - 50);
+	draw_sprite(sp_egg, 0, wport+50, hport+cam_h - 50);
 }
 if(find_flour){
-	draw_sprite(sp_flour, 0, cam_x, cam_y+cam_h - 50);
+	draw_sprite(sp_flour, 0, wport, hport+cam_h - 50);
 }

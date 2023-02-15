@@ -1,12 +1,13 @@
 /// @description movements
+depth = -25;
 _camera = view_camera[0]
 cam_x = camera_get_view_x(_camera)
 cam_y = camera_get_view_y(_camera )
 cam_h = camera_get_view_height(_camera)
 cam_w = camera_get_view_width(_camera)
-wport = x - (view_wport[0] / 2);
-hport = y - (view_hport[0] / 2);
-camera_set_view_pos(view_camera[0], clamp(wport, 0, room_width-cam_w),clamp(hport, 0,room_height-cam_h));
+wport = clamp(x - (view_wport[0] / 2), 0, room_width-cam_w);
+hport = clamp(y - (view_hport[0] / 2), 0, room_height-cam_h);
+camera_set_view_pos(view_camera[0],wport,hport);
 
 if(keyboard_check(vk_right)){
 	spd[0] = 1
