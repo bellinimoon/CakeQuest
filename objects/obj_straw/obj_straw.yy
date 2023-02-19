@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_straw",
   "spriteId": {
-    "name": "straw",
-    "path": "sprites/straw/straw.yy",
+    "name": "sp_straw",
+    "path": "sprites/sp_straw/sp_straw.yy",
   },
   "solid": false,
   "visible": true,

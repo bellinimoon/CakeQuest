@@ -35,8 +35,10 @@ if(spd[0] != 0 or spd[1] != 0){
 	sprite_index = sp_narrator;
 }
 
+
 spd[0]*=movement_speed
 spd[1]*=movement_speed
+
 
 x+=spd[0]
 if(place_meeting(x,y,obj_wall) or place_meeting(x,y,obj_purple)){
@@ -51,24 +53,54 @@ if(place_meeting(x,y,obj_wall) or place_meeting(x,y,obj_purple)){
 }
 
 
-if(find_milk and find_flour and find_egg){
+if(make_cake){
 	if(place_meeting(x,y,obj_house) and keyboard_check(ord("X"))){
-		make_cake = true;
+		cake = true;
 	}
 }
-if(!find_flour){
-	if(place_meeting(x,y,obj_mill) and keyboard_check(ord("X"))){
-		find_flour = true;
-	}
-}
-if(!find_egg){
+if(!global.find_egg){
 	if(place_meeting(x,y,obj_hen) and global.find_chick == 4 and keyboard_check(ord("X"))){
-		find_egg = true;
+		global.find_egg = true;
+		audio_play_sound(sud_gain, 8, false);
 	}
 }
-if(!find_milk){
+if(!global.find_milk and global.find_grass){
 	if(place_meeting(x,y,obj_cow) and keyboard_check(ord("X"))){
-		find_milk = true;
+		global.find_milk = true;
+		global.find_grass = false;
+		audio_play_sound(sud_gain, 8, false);
 	}
 }
 
+if(!global.find_grass){
+	if(place_meeting(x,y,obj_straw) and keyboard_check(ord("X"))){
+		global.find_grass = true;
+		audio_play_sound(sud_gain, 8, false);
+	}
+}
+
+
+if(!global.find_flour and global.find_grass){
+	if(place_meeting(x,y,obj_mill) and keyboard_check(ord("X"))){
+		global.find_grass = false;
+		global.find_flour = true;
+		audio_play_sound(sud_gain, 8, false);
+	}
+}
+if(cake and alarm[0]== -1){
+	alarm[0] = 90;
+}
+
+global.allA = [global.find_flour,
+global.find_milk,
+global.find_egg,
+global.find_mushroom,
+global.find_grass,
+global.find_apple,
+global.find_chili,
+global.find_slime,
+]
+if(re and room == Egg){
+	obj_mushroom.visible = true;
+	re = false;
+}

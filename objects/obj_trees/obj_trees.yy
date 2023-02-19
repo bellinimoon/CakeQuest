@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_trees",
   "spriteId": {
-    "name": "sp_apple",
-    "path": "sprites/sp_apple/sp_apple.yy",
+    "name": "sp_appleTree",
+    "path": "sprites/sp_appleTree/sp_appleTree.yy",
   },
   "solid": false,
   "visible": true,

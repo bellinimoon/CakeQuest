@@ -5,7 +5,7 @@ function MoveY(amount){
 		m_yRemainder -= move;
 		var mySign = sign(move);
 		while(move != 0){
-			if (!place_meeting(x, y + mySign, obj_purple) and !place_meeting(x, y + mySign, obj_wall)){
+			if (!place_meeting(x, y + mySign, obj_mill) and !place_meeting(x, y + mySign, obj_purple) and !place_meeting(x, y + mySign, obj_purple) and !place_meeting(x, y + mySign, obj_wall)){
 				y += mySign;
 				move -= mySign;
 			}else{

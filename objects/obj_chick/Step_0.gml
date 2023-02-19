@@ -6,13 +6,6 @@ if(timer < 0){
 	m_randomx = sign(random_range(-10,10));
 	m_randomy = sign(random_range(-10,10));
 }
-//if (random_range(0,20) > 10){
-	
-//}
-//if (random_range(0,20) > 10){
-	
-//}
-
 m_speedx = random_range(1,10);
 m_speedy = random_range(1,10);
 
@@ -22,5 +15,6 @@ MoveY(m_randomy * m_speedy);
 if (place_meeting(x,y,obj_avatar) and keyboard_check(ord("X")))
 {
     instance_destroy();
+	audio_play_sound(sud_chick, 8, false);
 	global.find_chick ++;
 }

@@ -8,7 +8,7 @@ function MoveX(amount){
 			m_xRemainder -= move
 			var mySign = sign(move)
 			while ( move != 0){
-				if (!place_meeting(x + mySign, y ,obj_purple)and !place_meeting(x + mySign, y ,obj_wall)){
+				if (!place_meeting(x + mySign, y ,obj_mill)and !place_meeting(x + mySign, y ,obj_mushroom) and !place_meeting(x + mySign, y ,obj_purple)and !place_meeting(x + mySign, y ,obj_wall)){
 					x += mySign
 					move -= mySign
 				}else{
