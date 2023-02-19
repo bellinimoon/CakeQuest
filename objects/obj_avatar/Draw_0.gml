@@ -58,14 +58,12 @@ very bad.",1.5,1.5,0)
 				}
 			}else if(global.find_apple){
 				draw_text_transformed(x,y-50,"Can't say I don't like apple cake",1.5,1.5,0)
-				//audio_play_sound(sud_cakeO, 8, false);
 				if (!audio_is_playing(sud_cakeO) and played) {
 					audio_play_sound(sud_cakeO,8, false);
 				played = false;
 				}
 			}else{
 				draw_text_transformed(x,y-50,"An ordinary cake, just what I want",1.5,1.5,0)
-				//audio_play_sound(sud_cakeO, 8, false);
 				if (!audio_is_playing(sud_cakeO) and played) {
 					audio_play_sound(sud_cakeO,8, false);
 				played = false;
@@ -74,7 +72,6 @@ very bad.",1.5,1.5,0)
 		}else{
 			if(global.find_slime){
 				draw_text_transformed(x,y-50,"I'm gonna throw up cuz of the slime",1.5,1.5,0)
-				//audio_play_sound(sud_cakeF, 8, false);
 				if (!audio_is_playing(sud_cakeF) and played) {
 					audio_play_sound(sud_cakeF,8, false);
 				played = false;
