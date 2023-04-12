@@ -1,5 +1,5 @@
 /// @description Create event
-
+gpu_set_texfilter(false)
 movement_speed = 5
 spd = [0,0]
 
