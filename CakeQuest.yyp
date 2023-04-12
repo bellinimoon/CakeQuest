@@ -16,8 +16,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
-<<<<<<< Updated upstream
-=======
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Online_sprites_inside","folderPath":"folders/Online_sprites_inside.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Characters_free","folderPath":"folders/Online_sprites_inside/Characters_free.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"RPGMAKERMV","folderPath":"folders/Online_sprites_inside/Characters_free/RPGMAKERMV.yy",},
@@ -29,7 +27,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"RPG_MAKER_MV","folderPath":"folders/Online_sprites/RPG_MAKER_MV.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"RPG_MAKER_VX_ACE","folderPath":"folders/Online_sprites/RPG_MAKER_VX_ACE.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"RPG_MAKER_XP","folderPath":"folders/Online_sprites/RPG_MAKER_XP.yy",},
->>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
@@ -37,13 +34,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
-<<<<<<< Updated upstream
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-=======
->>>>>>> Stashed changes
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"READ ME.txt","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
@@ -52,25 +46,6 @@
   "resources": [
     {"id":{"name":"obj_purple","path":"objects/obj_purple/obj_purple.yy",},},
     {"id":{"name":"sp_purple","path":"sprites/sp_purple/sp_purple.yy",},},
-<<<<<<< Updated upstream
-    {"id":{"name":"obj_egg","path":"objects/obj_egg/obj_egg.yy",},},
-    {"id":{"name":"sp_narrator_walk","path":"sprites/sp_narrator_walk/sp_narrator_walk.yy",},},
-    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
-    {"id":{"name":"obj_hen","path":"objects/obj_hen/obj_hen.yy",},},
-    {"id":{"name":"fnt_peaberry","path":"fonts/fnt_peaberry/fnt_peaberry.yy",},},
-    {"id":{"name":"obj_angry","path":"objects/obj_angry/obj_angry.yy",},},
-    {"id":{"name":"sp_hen","path":"sprites/sp_hen/sp_hen.yy",},},
-    {"id":{"name":"sp_arrowU","path":"sprites/sp_arrowU/sp_arrowU.yy",},},
-    {"id":{"name":"sp_green","path":"sprites/sp_green/sp_green.yy",},},
-    {"id":{"name":"emptyArray","path":"scripts/emptyArray/emptyArray.yy",},},
-    {"id":{"name":"sp_slimeF","path":"sprites/sp_slimeF/sp_slimeF.yy",},},
-    {"id":{"name":"obj_arrowR","path":"objects/obj_arrowR/obj_arrowR.yy",},},
-    {"id":{"name":"sp_chiliTree","path":"sprites/sp_chiliTree/sp_chiliTree.yy",},},
-    {"id":{"name":"obj_house","path":"objects/obj_house/obj_house.yy",},},
-    {"id":{"name":"obj_mill","path":"objects/obj_mill/obj_mill.yy",},},
-    {"id":{"name":"obj_cabin","path":"objects/obj_cabin/obj_cabin.yy",},},
-    {"id":{"name":"obj_straw","path":"objects/obj_straw/obj_straw.yy",},},
-=======
     {"id":{"name":"Amelia_sit_16x16","path":"sprites/Amelia_sit_16x16/Amelia_sit_16x16.yy",},},
     {"id":{"name":"idle_16x16_2","path":"sprites/idle_16x16_2/idle_16x16_2.yy",},},
     {"id":{"name":"door_48x48","path":"sprites/door_48x48/door_48x48.yy",},},
@@ -119,20 +94,10 @@
     {"id":{"name":"campfire_16x1640","path":"sprites/campfire_16x1640/campfire_16x1640.yy",},},
     {"id":{"name":"door_16x1643","path":"sprites/door_16x1643/door_16x1643.yy",},},
     {"id":{"name":"Alex_run_16x16","path":"sprites/Alex_run_16x16/Alex_run_16x16.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"sp_flour","path":"sprites/sp_flour/sp_flour.yy",},},
     {"id":{"name":"sp_egg","path":"sprites/sp_egg/sp_egg.yy",},},
     {"id":{"name":"sp_arrowD","path":"sprites/sp_arrowD/sp_arrowD.yy",},},
     {"id":{"name":"sp_cow","path":"sprites/sp_cow/sp_cow.yy",},},
-<<<<<<< Updated upstream
-    {"id":{"name":"Milk","path":"rooms/Milk/Milk.yy",},},
-    {"id":{"name":"sud_gain","path":"sounds/sud_gain/sud_gain.yy",},},
-    {"id":{"name":"obj_trees","path":"objects/obj_trees/obj_trees.yy",},},
-    {"id":{"name":"sp_narrator_die","path":"sprites/sp_narrator_die/sp_narrator_die.yy",},},
-    {"id":{"name":"sp_straw","path":"sprites/sp_straw/sp_straw.yy",},},
-    {"id":{"name":"sud_fail","path":"sounds/sud_fail/sud_fail.yy",},},
-    {"id":{"name":"sp_house","path":"sprites/sp_house/sp_house.yy",},},
-=======
     {"id":{"name":"B_C_D_E_Serene_Village_02","path":"sprites/B_C_D_E_Serene_Village_02/B_C_D_E_Serene_Village_02.yy",},},
     {"id":{"name":"idle_32x32_2","path":"sprites/idle_32x32_2/idle_32x32_2.yy",},},
     {"id":{"name":"Serene_Village_48x48","path":"sprites/Serene_Village_48x48/Serene_Village_48x48.yy",},},
@@ -157,31 +122,10 @@
     {"id":{"name":"sp_house","path":"sprites/sp_house/sp_house.yy",},},
     {"id":{"name":"campfire_32x3246","path":"sprites/campfire_32x3246/campfire_32x3246.yy",},},
     {"id":{"name":"Adam_16x16","path":"sprites/Adam_16x16/Adam_16x16.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"obj_arrowL","path":"objects/obj_arrowL/obj_arrowL.yy",},},
     {"id":{"name":"sp_redApple","path":"sprites/sp_redApple/sp_redApple.yy",},},
     {"id":{"name":"sp_arrowL","path":"sprites/sp_arrowL/sp_arrowL.yy",},},
     {"id":{"name":"sp_cabin","path":"sprites/sp_cabin/sp_cabin.yy",},},
-<<<<<<< Updated upstream
-    {"id":{"name":"obj_milk","path":"objects/obj_milk/obj_milk.yy",},},
-    {"id":{"name":"sp_mushroom","path":"sprites/sp_mushroom/sp_mushroom.yy",},},
-    {"id":{"name":"sud_cakeW","path":"sounds/sud_cakeW/sud_cakeW.yy",},},
-    {"id":{"name":"obj_cow","path":"objects/obj_cow/obj_cow.yy",},},
-    {"id":{"name":"MoveY","path":"scripts/MoveY/MoveY.yy",},},
-    {"id":{"name":"obj_flour","path":"objects/obj_flour/obj_flour.yy",},},
-    {"id":{"name":"sp_apple","path":"sprites/sp_apple/sp_apple.yy",},},
-    {"id":{"name":"obj_treeChange","path":"objects/obj_treeChange/obj_treeChange.yy",},},
-    {"id":{"name":"sp_chick","path":"sprites/sp_chick/sp_chick.yy",},},
-    {"id":{"name":"sp_wall","path":"sprites/sp_wall/sp_wall.yy",},},
-    {"id":{"name":"obj_arrowU","path":"objects/obj_arrowU/obj_arrowU.yy",},},
-    {"id":{"name":"obj_slime","path":"objects/obj_slime/obj_slime.yy",},},
-    {"id":{"name":"sud_cakeO","path":"sounds/sud_cakeO/sud_cakeO.yy",},},
-    {"id":{"name":"sp_slime","path":"sprites/sp_slime/sp_slime.yy",},},
-    {"id":{"name":"sp_milk","path":"sprites/sp_milk/sp_milk.yy",},},
-    {"id":{"name":"Egg","path":"rooms/Egg/Egg.yy",},},
-    {"id":{"name":"sp_chili","path":"sprites/sp_chili/sp_chili.yy",},},
-    {"id":{"name":"obj_mushroom","path":"objects/obj_mushroom/obj_mushroom.yy",},},
-=======
     {"id":{"name":"Adam_idle_16x16","path":"sprites/Adam_idle_16x16/Adam_idle_16x16.yy",},},
     {"id":{"name":"campfire_48x4842","path":"sprites/campfire_48x4842/campfire_48x4842.yy",},},
     {"id":{"name":"Alex_16x16","path":"sprites/Alex_16x16/Alex_16x16.yy",},},
@@ -227,24 +171,11 @@
     {"id":{"name":"Amelia_sit3_16x16","path":"sprites/Amelia_sit3_16x16/Amelia_sit3_16x16.yy",},},
     {"id":{"name":"Alex_sit2_16x16","path":"sprites/Alex_sit2_16x16/Alex_sit2_16x16.yy",},},
     {"id":{"name":"Terrains_TILESET_B_C_D_E","path":"sprites/Terrains_TILESET_B_C_D_E/Terrains_TILESET_B_C_D_E.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"sp_arrowR","path":"sprites/sp_arrowR/sp_arrowR.yy",},},
     {"id":{"name":"sud_cakeF","path":"sounds/sud_cakeF/sud_cakeF.yy",},},
     {"id":{"name":"sp_appleTree","path":"sprites/sp_appleTree/sp_appleTree.yy",},},
     {"id":{"name":"sp_strawT","path":"sprites/sp_strawT/sp_strawT.yy",},},
     {"id":{"name":"sp_slimeA","path":"sprites/sp_slimeA/sp_slimeA.yy",},},
-<<<<<<< Updated upstream
-    {"id":{"name":"sp_mill","path":"sprites/sp_mill/sp_mill.yy",},},
-    {"id":{"name":"obj_chick","path":"objects/obj_chick/obj_chick.yy",},},
-    {"id":{"name":"obj_avatar","path":"objects/obj_avatar/obj_avatar.yy",},},
-    {"id":{"name":"MoveX","path":"scripts/MoveX/MoveX.yy",},},
-    {"id":{"name":"destroy","path":"scripts/destroy/destroy.yy",},},
-    {"id":{"name":"obj_green","path":"objects/obj_green/obj_green.yy",},},
-    {"id":{"name":"sp_narrator","path":"sprites/sp_narrator/sp_narrator.yy",},},
-    {"id":{"name":"sud_bg","path":"sounds/sud_bg/sud_bg.yy",},},
-    {"id":{"name":"sud_chick","path":"sounds/sud_chick/sud_chick.yy",},},
-    {"id":{"name":"obj_arrowD","path":"objects/obj_arrowD/obj_arrowD.yy",},},
-=======
     {"id":{"name":"Tileset_16x16_2","path":"sprites/Tileset_16x16_2/Tileset_16x16_2.yy",},},
     {"id":{"name":"sp_mill","path":"sprites/sp_mill/sp_mill.yy",},},
     {"id":{"name":"run_horizontal_48x48_2","path":"sprites/run_horizontal_48x48_2/run_horizontal_48x48_2.yy",},},
@@ -269,7 +200,6 @@
     {"id":{"name":"obj_arrowD","path":"objects/obj_arrowD/obj_arrowD.yy",},},
     {"id":{"name":"free_overview","path":"sprites/free_overview/free_overview.yy",},},
     {"id":{"name":"Amelia_idle_16x16","path":"sprites/Amelia_idle_16x16/Amelia_idle_16x16.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"Flour","path":"rooms/Flour/Flour.yy",},},
   ],
   "RoomOrderNodes": [
