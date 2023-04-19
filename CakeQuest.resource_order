@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "FolderOrderSettings": [],
-=======
   "FolderOrderSettings": [
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
@@ -27,7 +24,6 @@
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
->>>>>>> Stashed changes
   "ResourceOrderSettings": [
     {"name":"obj_purple","order":1,"path":"objects/obj_purple/obj_purple.yy",},
     {"name":"sp_purple","order":9,"path":"sprites/sp_purple/sp_purple.yy",},
