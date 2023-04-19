@@ -14,11 +14,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
-<<<<<<< Updated upstream
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
-=======
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
->>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Online_sprites_inside","folderPath":"folders/Online_sprites_inside.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Characters_free","folderPath":"folders/Online_sprites_inside/Characters_free.yy",},
@@ -35,18 +31,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Sequences.yy",},
-<<<<<<< Updated upstream
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSets","folderPath":"folders/TileSets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites_old","folderPath":"folders/Sprites_old.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"READ ME.txt","CopyToMask":-1,"filePath":"datafiles",},
-=======
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
->>>>>>> Stashed changes
   ],
   "isEcma": false,
   "LibraryEmitters": [],
@@ -57,18 +47,10 @@
     {"id":{"name":"obj_purple","path":"objects/obj_purple/obj_purple.yy",},},
     {"id":{"name":"sp_purple","path":"sprites/sp_purple/sp_purple.yy",},},
     {"id":{"name":"Amelia_sit_16x16","path":"sprites/Amelia_sit_16x16/Amelia_sit_16x16.yy",},},
-<<<<<<< Updated upstream
-=======
-    {"id":{"name":"idle_16x16_2","path":"sprites/idle_16x16_2/idle_16x16_2.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"door_48x48","path":"sprites/door_48x48/door_48x48.yy",},},
     {"id":{"name":"Tileset_32x32_2","path":"sprites/Tileset_32x32_2/Tileset_32x32_2.yy",},},
     {"id":{"name":"obj_egg","path":"objects/obj_egg/obj_egg.yy",},},
     {"id":{"name":"water_waves_32x3241","path":"sprites/water_waves_32x3241/water_waves_32x3241.yy",},},
-<<<<<<< Updated upstream
-=======
-    {"id":{"name":"Tileset_16x16_3","path":"sprites/Tileset_16x16_3/Tileset_16x16_3.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"Tileset_32x32_1","path":"sprites/Tileset_32x32_1/Tileset_32x32_1.yy",},},
     {"id":{"name":"sp_narrator_walk","path":"sprites/sp_narrator_walk/sp_narrator_walk.yy",},},
     {"id":{"name":"Amelia_sit2_16x16","path":"sprites/Amelia_sit2_16x16/Amelia_sit2_16x16.yy",},},
@@ -77,15 +59,8 @@
     {"id":{"name":"water_waves_48x48","path":"sprites/water_waves_48x48/water_waves_48x48.yy",},},
     {"id":{"name":"obj_hen","path":"objects/obj_hen/obj_hen.yy",},},
     {"id":{"name":"fnt_peaberry","path":"fonts/fnt_peaberry/fnt_peaberry.yy",},},
-<<<<<<< Updated upstream
     {"id":{"name":"__door","path":"sprites/__door/__door.yy",},},
     {"id":{"name":"obj_angry","path":"objects/obj_angry/obj_angry.yy",},},
-=======
-    {"id":{"name":"run_horizontal_16x16_2","path":"sprites/run_horizontal_16x16_2/run_horizontal_16x16_2.yy",},},
-    {"id":{"name":"__door","path":"sprites/__door/__door.yy",},},
-    {"id":{"name":"obj_angry","path":"objects/obj_angry/obj_angry.yy",},},
-    {"id":{"name":"Character_2_48x48_RPGMAKER","path":"sprites/Character_2_48x48_RPGMAKER/Character_2_48x48_RPGMAKER.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"sp_hen","path":"sprites/sp_hen/sp_hen.yy",},},
     {"id":{"name":"sp_arrowU","path":"sprites/sp_arrowU/sp_arrowU.yy",},},
     {"id":{"name":"Bob_phone_16x16","path":"sprites/Bob_phone_16x16/Bob_phone_16x16.yy",},},
@@ -123,36 +98,19 @@
     {"id":{"name":"idle_32x32_2","path":"sprites/idle_32x32_2/idle_32x32_2.yy",},},
     {"id":{"name":"Serene_Village_48x48","path":"sprites/Serene_Village_48x48/Serene_Village_48x48.yy",},},
     {"id":{"name":"door_16x16","path":"sprites/door_16x16/door_16x16.yy",},},
-<<<<<<< Updated upstream
     {"id":{"name":"spr_avatar_run_right","path":"sprites/spr_avatar_run_right/spr_avatar_run_right.yy",},},
     {"id":{"name":"water_waves_16x16","path":"sprites/water_waves_16x16/water_waves_16x16.yy",},},
     {"id":{"name":"Milk","path":"rooms/Milk/Milk.yy",},},
     {"id":{"name":"sud_gain","path":"sounds/sud_gain/sud_gain.yy",},},
     {"id":{"name":"obj_trees","path":"objects/obj_trees/obj_trees.yy",},},
     {"id":{"name":"Bob_idle_anim_16x16","path":"sprites/Bob_idle_anim_16x16/Bob_idle_anim_16x16.yy",},},
-=======
-    {"id":{"name":"Adam_run_16x16","path":"sprites/Adam_run_16x16/Adam_run_16x16.yy",},},
-    {"id":{"name":"Tileset_48x48_1","path":"sprites/Tileset_48x48_1/Tileset_48x48_1.yy",},},
-    {"id":{"name":"Character_2_16x16_RPGMAKER","path":"sprites/Character_2_16x16_RPGMAKER/Character_2_16x16_RPGMAKER.yy",},},
-    {"id":{"name":"water_waves_16x16","path":"sprites/water_waves_16x16/water_waves_16x16.yy",},},
-    {"id":{"name":"Tileset_48x48_16","path":"sprites/Tileset_48x48_16/Tileset_48x48_16.yy",},},
-    {"id":{"name":"Milk","path":"rooms/Milk/Milk.yy",},},
-    {"id":{"name":"sud_gain","path":"sounds/sud_gain/sud_gain.yy",},},
-    {"id":{"name":"idle_48x48_2","path":"sprites/idle_48x48_2/idle_48x48_2.yy",},},
-    {"id":{"name":"obj_trees","path":"objects/obj_trees/obj_trees.yy",},},
-    {"id":{"name":"Bob_idle_anim_16x16","path":"sprites/Bob_idle_anim_16x16/Bob_idle_anim_16x16.yy",},},
-    {"id":{"name":"Tileset_16x16_1","path":"sprites/Tileset_16x16_1/Tileset_16x16_1.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"sp_narrator_die","path":"sprites/sp_narrator_die/sp_narrator_die.yy",},},
     {"id":{"name":"sp_straw","path":"sprites/sp_straw/sp_straw.yy",},},
     {"id":{"name":"Outside_Stuff_TILESET_B_C_D_E","path":"sprites/Outside_Stuff_TILESET_B_C_D_E/Outside_Stuff_TILESET_B_C_D_E.yy",},},
     {"id":{"name":"Bob_run_16x16","path":"sprites/Bob_run_16x16/Bob_run_16x16.yy",},},
     {"id":{"name":"sud_fail","path":"sounds/sud_fail/sud_fail.yy",},},
     {"id":{"name":"Alex_idle_16x16","path":"sprites/Alex_idle_16x16/Alex_idle_16x16.yy",},},
-<<<<<<< Updated upstream
     {"id":{"name":"ts_room1","path":"tilesets/ts_room1/ts_room1.yy",},},
-=======
->>>>>>> Stashed changes
     {"id":{"name":"sp_house","path":"sprites/sp_house/sp_house.yy",},},
     {"id":{"name":"campfire_32x3246","path":"sprites/campfire_32x3246/campfire_32x3246.yy",},},
     {"id":{"name":"Adam_16x16","path":"sprites/Adam_16x16/Adam_16x16.yy",},},
@@ -160,15 +118,10 @@
     {"id":{"name":"sp_redApple","path":"sprites/sp_redApple/sp_redApple.yy",},},
     {"id":{"name":"sp_arrowL","path":"sprites/sp_arrowL/sp_arrowL.yy",},},
     {"id":{"name":"sp_cabin","path":"sprites/sp_cabin/sp_cabin.yy",},},
-<<<<<<< Updated upstream
     {"id":{"name":"Main","path":"rooms/Main/Main.yy",},},
     {"id":{"name":"Adam_idle_16x16","path":"sprites/Adam_idle_16x16/Adam_idle_16x16.yy",},},
     {"id":{"name":"campfire_48x4842","path":"sprites/campfire_48x4842/campfire_48x4842.yy",},},
     {"id":{"name":"TileSet_room","path":"tilesets/TileSet_room/TileSet_room.yy",},},
-=======
-    {"id":{"name":"Adam_idle_16x16","path":"sprites/Adam_idle_16x16/Adam_idle_16x16.yy",},},
-    {"id":{"name":"campfire_48x4842","path":"sprites/campfire_48x4842/campfire_48x4842.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"Alex_16x16","path":"sprites/Alex_16x16/Alex_16x16.yy",},},
     {"id":{"name":"obj_milk","path":"objects/obj_milk/obj_milk.yy",},},
     {"id":{"name":"Tileset_32x32_3","path":"sprites/Tileset_32x32_3/Tileset_32x32_3.yy",},},
@@ -182,10 +135,6 @@
     {"id":{"name":"Adam_sit3_16x16","path":"sprites/Adam_sit3_16x16/Adam_sit3_16x16.yy",},},
     {"id":{"name":"MoveY","path":"scripts/MoveY/MoveY.yy",},},
     {"id":{"name":"obj_flour","path":"objects/obj_flour/obj_flour.yy",},},
-<<<<<<< Updated upstream
-=======
-    {"id":{"name":"Tileset_48x48_2","path":"sprites/Tileset_48x48_2/Tileset_48x48_2.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"Serene_Village_32x32","path":"sprites/Serene_Village_32x32/Serene_Village_32x32.yy",},},
     {"id":{"name":"sp_apple","path":"sprites/sp_apple/sp_apple.yy",},},
     {"id":{"name":"obj_treeChange","path":"objects/obj_treeChange/obj_treeChange.yy",},},
@@ -200,10 +149,6 @@
     {"id":{"name":"obj_slime","path":"objects/obj_slime/obj_slime.yy",},},
     {"id":{"name":"Amelia_run_16x16","path":"sprites/Amelia_run_16x16/Amelia_run_16x16.yy",},},
     {"id":{"name":"sud_cakeO","path":"sounds/sud_cakeO/sud_cakeO.yy",},},
-<<<<<<< Updated upstream
-=======
-    {"id":{"name":"Tileset_48x48_3","path":"sprites/Tileset_48x48_3/Tileset_48x48_3.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"campfire_48x48","path":"sprites/campfire_48x48/campfire_48x48.yy",},},
     {"id":{"name":"sp_slime","path":"sprites/sp_slime/sp_slime.yy",},},
     {"id":{"name":"Serene_Village_16x16","path":"sprites/Serene_Village_16x16/Serene_Village_16x16.yy",},},
@@ -212,11 +157,6 @@
     {"id":{"name":"water_waves_32x32","path":"sprites/water_waves_32x32/water_waves_32x32.yy",},},
     {"id":{"name":"door_48x4844","path":"sprites/door_48x4844/door_48x4844.yy",},},
     {"id":{"name":"sp_chili","path":"sprites/sp_chili/sp_chili.yy",},},
-<<<<<<< Updated upstream
-=======
-    {"id":{"name":"Tileset_16x16_16","path":"sprites/Tileset_16x16_16/Tileset_16x16_16.yy",},},
-    {"id":{"name":"Tileset_48x48_9","path":"sprites/Tileset_48x48_9/Tileset_48x48_9.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"obj_mushroom","path":"objects/obj_mushroom/obj_mushroom.yy",},},
     {"id":{"name":"Amelia_sit3_16x16","path":"sprites/Amelia_sit3_16x16/Amelia_sit3_16x16.yy",},},
     {"id":{"name":"Alex_sit2_16x16","path":"sprites/Alex_sit2_16x16/Alex_sit2_16x16.yy",},},
@@ -226,13 +166,7 @@
     {"id":{"name":"sp_appleTree","path":"sprites/sp_appleTree/sp_appleTree.yy",},},
     {"id":{"name":"sp_strawT","path":"sprites/sp_strawT/sp_strawT.yy",},},
     {"id":{"name":"sp_slimeA","path":"sprites/sp_slimeA/sp_slimeA.yy",},},
-<<<<<<< Updated upstream
     {"id":{"name":"sp_mill","path":"sprites/sp_mill/sp_mill.yy",},},
-=======
-    {"id":{"name":"Tileset_16x16_2","path":"sprites/Tileset_16x16_2/Tileset_16x16_2.yy",},},
-    {"id":{"name":"sp_mill","path":"sprites/sp_mill/sp_mill.yy",},},
-    {"id":{"name":"run_horizontal_48x48_2","path":"sprites/run_horizontal_48x48_2/run_horizontal_48x48_2.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"Amelia_idle_anim_16x16","path":"sprites/Amelia_idle_anim_16x16/Amelia_idle_anim_16x16.yy",},},
     {"id":{"name":"obj_chick","path":"objects/obj_chick/obj_chick.yy",},},
     {"id":{"name":"obj_avatar","path":"objects/obj_avatar/obj_avatar.yy",},},
@@ -247,10 +181,6 @@
     {"id":{"name":"__Campfire","path":"sprites/__Campfire/__Campfire.yy",},},
     {"id":{"name":"sp_narrator","path":"sprites/sp_narrator/sp_narrator.yy",},},
     {"id":{"name":"sud_bg","path":"sounds/sud_bg/sud_bg.yy",},},
-<<<<<<< Updated upstream
-=======
-    {"id":{"name":"Tileset_16x16_9","path":"sprites/Tileset_16x16_9/Tileset_16x16_9.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"Bob_sit3_16x16","path":"sprites/Bob_sit3_16x16/Bob_sit3_16x16.yy",},},
     {"id":{"name":"sud_chick","path":"sounds/sud_chick/sud_chick.yy",},},
     {"id":{"name":"Alex_sit3_16x16","path":"sprites/Alex_sit3_16x16/Alex_sit3_16x16.yy",},},

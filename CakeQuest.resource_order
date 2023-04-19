@@ -1,33 +1,5 @@
 {
-<<<<<<< Updated upstream
   "FolderOrderSettings": [],
-=======
-  "FolderOrderSettings": [
-    {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
-    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
-    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
-    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
-    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
-    {"name":"Online_sprites_inside","order":8,"path":"folders/Online_sprites_inside.yy",},
-    {"name":"Characters_free","order":1,"path":"folders/Online_sprites_inside/Characters_free.yy",},
-    {"name":"RPGMAKERMV","order":32,"path":"folders/Online_sprites_inside/Characters_free/RPGMAKERMV.yy",},
-    {"name":"Old","order":3,"path":"folders/Online_sprites_inside/Old.yy",},
-    {"name":"mv","order":21,"path":"folders/Online_sprites_inside/Old/mv.yy",},
-    {"name":"Online_sprites","order":2,"path":"folders/Online_sprites.yy",},
-    {"name":"Animated stuff","order":1,"path":"folders/Online_sprites/Animated stuff.yy",},
-    {"name":"Construct 3","order":2,"path":"folders/Online_sprites/Construct 3.yy",},
-    {"name":"RPG_MAKER_MV","order":3,"path":"folders/Online_sprites/RPG_MAKER_MV.yy",},
-    {"name":"RPG_MAKER_VX_ACE","order":4,"path":"folders/Online_sprites/RPG_MAKER_VX_ACE.yy",},
-    {"name":"RPG_MAKER_XP","order":5,"path":"folders/Online_sprites/RPG_MAKER_XP.yy",},
-    {"name":"Paths","order":4,"path":"folders/Paths.yy",},
-    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
-    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
-    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
-    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
-    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
-    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
-  ],
->>>>>>> Stashed changes
   "ResourceOrderSettings": [
     {"name":"obj_purple","order":1,"path":"objects/obj_purple/obj_purple.yy",},
     {"name":"sp_purple","order":9,"path":"sprites/sp_purple/sp_purple.yy",},
