@@ -108,6 +108,7 @@
     {"name":"sud_cakeW","order":3,"path":"sounds/sud_cakeW/sud_cakeW.yy",},
     {"name":"Alex_sit_16x16","order":11,"path":"sprites/Alex_sit_16x16/Alex_sit_16x16.yy",},
     {"name":"obj_cow","order":15,"path":"objects/obj_cow/obj_cow.yy",},
+    {"name":"Adam_16x16104105","order":2,"path":"sprites/Adam_16x16104105/Adam_16x16104105.yy",},
     {"name":"Tileset_32x32_16","order":4,"path":"sprites/Tileset_32x32_16/Tileset_32x32_16.yy",},
     {"name":"Adam_sit3_16x16","order":4,"path":"sprites/Adam_sit3_16x16/Adam_sit3_16x16.yy",},
     {"name":"MoveY","order":1,"path":"scripts/MoveY/MoveY.yy",},
@@ -158,5 +159,6 @@
     {"name":"obj_arrowD","order":13,"path":"objects/obj_arrowD/obj_arrowD.yy",},
     {"name":"free_overview","order":2,"path":"sprites/free_overview/free_overview.yy",},
     {"name":"Amelia_idle_16x16","order":3,"path":"sprites/Amelia_idle_16x16/Amelia_idle_16x16.yy",},
+    {"name":"spr_avatar_run_left","order":1,"path":"sprites/spr_avatar_run_left/spr_avatar_run_left.yy",},
   ],
 }
