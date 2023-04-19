@@ -35,7 +35,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Old","folderPath":"folders/Online_sprites_inside/Old.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"mv","folderPath":"folders/Online_sprites_inside/Old/mv.yy","order":0,},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"READ ME.txt","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "isEcma": false,
   "MetaData": {
     "IDEVersion": "2023.1.0.58",
