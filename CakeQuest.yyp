@@ -33,8 +33,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites_old","folderPath":"folders/Sprites_old.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSets","folderPath":"folders/TileSets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_avatar","folderPath":"folders/Sprites/spr_avatar.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSets","folderPath":"folders/TileSets.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"READ ME.txt","CopyToMask":-1,"filePath":"datafiles",},
