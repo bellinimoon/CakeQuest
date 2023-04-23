@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings": [
     {"name":"spr_avatar","order":17,"path":"folders/Sprites/spr_avatar.yy",},
+    {"name":"32x32","order":3,"path":"folders/Online_sprites_inside/32x32.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_purple","order":1,"path":"objects/obj_purple/obj_purple.yy",},
@@ -22,6 +23,7 @@
     {"name":"obj_hen","order":12,"path":"objects/obj_hen/obj_hen.yy",},
     {"name":"__door","order":4,"path":"sprites/__door/__door.yy",},
     {"name":"obj_angry","order":22,"path":"objects/obj_angry/obj_angry.yy",},
+    {"name":"Room_Builder_free_32x32","order":1,"path":"sprites/Room_Builder_free_32x32/Room_Builder_free_32x32.yy",},
     {"name":"sp_hen","order":17,"path":"sprites/sp_hen/sp_hen.yy",},
     {"name":"sp_arrowU","order":13,"path":"sprites/sp_arrowU/sp_arrowU.yy",},
     {"name":"Bob_phone_16x16","order":13,"path":"sprites/Bob_phone_16x16/Bob_phone_16x16.yy",},
@@ -66,7 +68,7 @@
     {"name":"door_16x16","order":3,"path":"sprites/door_16x16/door_16x16.yy",},
     {"name":"water_waves_16x16","order":7,"path":"sprites/water_waves_16x16/water_waves_16x16.yy",},
     {"name":"Milk","order":2,"path":"rooms/Milk/Milk.yy",},
-    {"name":"Green","order":5,"path":"rooms/Green/Green.yy",},
+    {"name":"rm_green","order":5,"path":"rooms/rm_green/rm_green.yy",},
     {"name":"obj_trees","order":19,"path":"objects/obj_trees/obj_trees.yy",},
     {"name":"Bob_idle_anim_16x16","order":14,"path":"sprites/Bob_idle_anim_16x16/Bob_idle_anim_16x16.yy",},
     {"name":"sp_narrator_die","order":35,"path":"sprites/sp_narrator_die/sp_narrator_die.yy",},
@@ -105,6 +107,7 @@
     {"name":"obj_treeChange","order":10,"path":"objects/obj_treeChange/obj_treeChange.yy",},
     {"name":"door_32x3245","order":14,"path":"sprites/door_32x3245/door_32x3245.yy",},
     {"name":"sp_chick","order":16,"path":"sprites/sp_chick/sp_chick.yy",},
+    {"name":"furniture","order":2,"path":"tilesets/furniture/furniture.yy",},
     {"name":"Adam_sit2_16x16","order":12,"path":"sprites/Adam_sit2_16x16/Adam_sit2_16x16.yy",},
     {"name":"sp_wall","order":7,"path":"sprites/sp_wall/sp_wall.yy",},
     {"name":"Bob_sit_16x16","order":15,"path":"sprites/Bob_sit_16x16/Bob_sit_16x16.yy",},

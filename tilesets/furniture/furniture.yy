@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "ts_room1",
+  "name": "furniture",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -12,8 +12,8 @@
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
-    "name": "TileSets",
-    "path": "folders/TileSets.yy",
+    "name": "32x32",
+    "path": "folders/Online_sprites_inside/32x32.yy",
   },
   "spriteId": null,
   "spriteNoExport": true,
@@ -24,7 +24,7 @@
   "tile_count": 0,
   "tileAnimation": {
     "FrameData": [],
-    "SerialiseFrameCount": 1,
+    "SerialiseFrameCount": 0,
   },
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
