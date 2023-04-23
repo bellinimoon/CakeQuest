@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 draw_self()
+x = camera_get_view_x(view_camera[0])
+y = camera_get_view_y(view_camera[0])
 
 function Draw_Text(text) {
 	draw_set_font(fnt_peaberry)
