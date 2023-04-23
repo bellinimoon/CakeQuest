@@ -78,7 +78,7 @@
     {"name":"obj_textbox","order":25,"path":"objects/obj_textbox/obj_textbox.yy",},
     {"name":"Outside_Stuff_TILESET_B_C_D_E","order":1,"path":"sprites/Outside_Stuff_TILESET_B_C_D_E/Outside_Stuff_TILESET_B_C_D_E.yy",},
     {"name":"Bob_run_16x16","order":2,"path":"sprites/Bob_run_16x16/Bob_run_16x16.yy",},
-    {"name":"dia","order":4,"path":"scripts/dia/dia.yy",},
+    {"name":"global_var","order":4,"path":"scripts/global_var/global_var.yy",},
     {"name":"sud_fail","order":2,"path":"sounds/sud_fail/sud_fail.yy",},
     {"name":"Alex_idle_16x16","order":16,"path":"sprites/Alex_idle_16x16/Alex_idle_16x16.yy",},
     {"name":"spr_door","order":17,"path":"sprites/spr_door/spr_door.yy",},
