@@ -182,6 +182,7 @@
     {"id":{"name":"sp_arrowR","path":"sprites/sp_arrowR/sp_arrowR.yy",},},
     {"id":{"name":"sud_cakeF","path":"sounds/sud_cakeF/sud_cakeF.yy",},},
     {"id":{"name":"spr_avatar_run_right","path":"sprites/spr_avatar_run_right/spr_avatar_run_right.yy",},},
+    {"id":{"name":"rm_blue","path":"rooms/rm_blue/rm_blue.yy",},},
     {"id":{"name":"sp_appleTree","path":"sprites/sp_appleTree/sp_appleTree.yy",},},
     {"id":{"name":"sp_strawT","path":"sprites/sp_strawT/sp_strawT.yy",},},
     {"id":{"name":"sp_slimeA","path":"sprites/sp_slimeA/sp_slimeA.yy",},},
@@ -217,6 +218,7 @@
     {"roomId":{"name":"HouseOwen","path":"rooms/HouseOwen/HouseOwen.yy",},},
     {"roomId":{"name":"Map","path":"rooms/Map/Map.yy",},},
     {"roomId":{"name":"rm_green","path":"rooms/rm_green/rm_green.yy",},},
+    {"roomId":{"name":"rm_blue","path":"rooms/rm_blue/rm_blue.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
