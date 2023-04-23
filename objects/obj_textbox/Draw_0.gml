@@ -1,10 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
-draw_self()
-x = camera_get_view_x(view_camera[0]) + 10
-y = camera_get_view_y(view_camera[0]) + camera_get_view_height(view_camera[0]) - sprite_height - 10
 
 function Draw_Text(text) {
+	draw_self()
+	x = camera_get_view_x(view_camera[0]) + 10
+	y = camera_get_view_y(view_camera[0]) + camera_get_view_height(view_camera[0]) - sprite_height - 10
+
+	
 	draw_set_font(fnt_peaberry)
 	draw_set_color(c_white)
 	draw_set_halign(fa_left)
