@@ -9,3 +9,5 @@ mspd = 1.5;
 spr = sprite_get_name(sprite_index);
 
 camera_set_view_pos(view_camera[0], x-200, y);
+
+cookBook = noone;
