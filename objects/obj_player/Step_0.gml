@@ -56,10 +56,3 @@ else {
 		y += vspd;
 	}
 }
-
-roomName = room_get_name(room); 
-if (roomName == rm_inventory){
-	instance_destroy(cookBook);
-}else{
-	cookBook = instance_create_layer(x, y, "cookbook", obj_cookBook);
-}

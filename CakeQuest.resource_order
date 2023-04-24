@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings": [
-    {"name":"obj_inventory","order":31,"path":"folders/Objects/obj_inventory.yy",},
     {"name":"Objects_old","order":23,"path":"folders/Objects/Objects_old.yy",},
     {"name":"32x32","order":3,"path":"folders/Online_sprites_inside/32x32.yy",},
     {"name":"spr_inventory","order":7,"path":"folders/Sprites/spr_inventory.yy",},
+    {"name":"obj_inventory","order":31,"path":"folders/Objects/obj_inventory.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_purple","order":17,"path":"objects/obj_purple/obj_purple.yy",},
@@ -94,8 +94,8 @@
     {"name":"sud_fail","order":2,"path":"sounds/sud_fail/sud_fail.yy",},
     {"name":"Alex_idle_16x16","order":16,"path":"sprites/Alex_idle_16x16/Alex_idle_16x16.yy",},
     {"name":"spr_door","order":17,"path":"sprites/spr_door/spr_door.yy",},
-    {"name":"spr_avatar_front_idle","order":15,"path":"sprites/spr_avatar_front_idle/spr_avatar_front_idle.yy",},
     {"name":"sp_house","order":5,"path":"sprites/sp_house/sp_house.yy",},
+    {"name":"spr_avatar_front_idle","order":4,"path":"sprites/spr_avatar_front_idle/spr_avatar_front_idle.yy",},
     {"name":"campfire_32x3246","order":15,"path":"sprites/campfire_32x3246/campfire_32x3246.yy",},
     {"name":"spr_exit","order":1,"path":"sprites/spr_exit/spr_exit.yy",},
     {"name":"Adam_16x16","order":17,"path":"sprites/Adam_16x16/Adam_16x16.yy",},
@@ -149,7 +149,6 @@
     {"name":"ts_icon","order":3,"path":"tilesets/ts_icon/ts_icon.yy",},
     {"name":"obj_mushroom","order":16,"path":"objects/obj_mushroom/obj_mushroom.yy",},
     {"name":"Amelia_sit3_16x16","order":27,"path":"sprites/Amelia_sit3_16x16/Amelia_sit3_16x16.yy",},
-    {"name":"spr_avatar_face","order":16,"path":"sprites/spr_avatar_face/spr_avatar_face.yy",},
     {"name":"Alex_sit2_16x16","order":31,"path":"sprites/Alex_sit2_16x16/Alex_sit2_16x16.yy",},
     {"name":"Terrains_TILESET_B_C_D_E","order":2,"path":"sprites/Terrains_TILESET_B_C_D_E/Terrains_TILESET_B_C_D_E.yy",},
     {"name":"sp_arrowR","order":2,"path":"sprites/sp_arrowR/sp_arrowR.yy",},
