@@ -57,7 +57,10 @@ else {
 	}
 }
 
-roomName = room_get_name(room); 
+if(room_get_name(room) != rm_inventory){
+	roomName = room_get_name(room); 
+}
+show_debug_message(roomName);
 if (roomName == rm_inventory){
 	instance_destroy(cookBook);
 }else{
