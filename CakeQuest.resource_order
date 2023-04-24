@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings": [
+    {"name":"old_room","order":9,"path":"folders/Rooms/old_room.yy",},
     {"name":"spr_avatar","order":4,"path":"folders/Sprites/spr_avatar.yy",},
     {"name":"spr_inventory","order":5,"path":"folders/Sprites/spr_inventory.yy",},
     {"name":"spr_npcs","order":8,"path":"folders/Sprites/spr_npcs.yy",},
-    {"name":"old_room","order":9,"path":"folders/Rooms/old_room.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_npc2","order":2,"path":"objects/obj_npc2/obj_npc2.yy",},

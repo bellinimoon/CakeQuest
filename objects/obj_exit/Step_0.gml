@@ -2,5 +2,5 @@
 // You can write your code in this editor
 if (mouse_check_button(mb_left) && collision_point(mouse_x, mouse_y, self, false, false))
 {
-    room_goto(asset_get_index(obj_player.roomName));
+    room_goto(asset_get_index(global.roomName));
 }
