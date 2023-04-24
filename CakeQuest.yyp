@@ -31,7 +31,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"RPG_MAKER_XP","folderPath":"folders/Online_sprites/RPG_MAKER_XP.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"old_room","folderPath":"folders/Rooms/old_room.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Sequences.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
@@ -41,6 +40,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_inventory","folderPath":"folders/Sprites/spr_inventory.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_npcs","folderPath":"folders/Sprites/spr_npcs.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSets","folderPath":"folders/TileSets.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"old_room","folderPath":"folders/Rooms/old_room.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"READ ME.txt","CopyToMask":-1,"filePath":"datafiles",},
