@@ -38,8 +38,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_avatar","folderPath":"folders/Sprites/spr_avatar.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_inventory","folderPath":"folders/Sprites/spr_inventory.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSets","folderPath":"folders/TileSets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_npcs","folderPath":"folders/Sprites/spr_npcs.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSets","folderPath":"folders/TileSets.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"old_room","folderPath":"folders/Rooms/old_room.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"READ ME.txt","CopyToMask":-1,"filePath":"datafiles",},
