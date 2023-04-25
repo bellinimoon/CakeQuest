@@ -2,12 +2,14 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_arrowR",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects_old",
-    "path": "folders/Objects/Objects_old.yy",
+    "name": "obj_inventory",
+    "path": "folders/Objects/obj_inventory.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sp_arrowR",
-    "path": "sprites/sp_arrowR/sp_arrowR.yy",
+    "name": "sp_arrowRight",
+    "path": "sprites/sp_arrowRight/sp_arrowRight.yy",
   },
   "spriteMaskId": null,
   "visible": true,

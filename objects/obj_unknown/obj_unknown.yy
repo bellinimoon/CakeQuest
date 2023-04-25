@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_egg",
+  "name": "obj_unknown",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects_old",
-    "path": "folders/Objects/Objects_old.yy",
+    "name": "obj_inventory",
+    "path": "folders/Objects/obj_inventory.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_egg",
-    "path": "sprites/spr_egg/spr_egg.yy",
+    "name": "spr_unknown",
+    "path": "sprites/spr_unknown/spr_unknown.yy",
   },
   "spriteMaskId": null,
   "visible": true,

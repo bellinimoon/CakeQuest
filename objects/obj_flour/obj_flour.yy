@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sp_flour",
-    "path": "sprites/sp_flour/sp_flour.yy",
+    "name": "spr_flour",
+    "path": "sprites/spr_flour/spr_flour.yy",
   },
   "spriteMaskId": null,
   "visible": true,

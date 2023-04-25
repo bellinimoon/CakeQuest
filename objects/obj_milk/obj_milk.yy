@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sp_milk",
-    "path": "sprites/sp_milk/sp_milk.yy",
+    "name": "spr_milk",
+    "path": "sprites/spr_milk/spr_milk.yy",
   },
   "spriteMaskId": null,
   "visible": true,
