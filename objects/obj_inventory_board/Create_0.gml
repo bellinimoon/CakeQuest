@@ -3,16 +3,36 @@
 
 enum acquired{
 	Apple,
-	Mushroom,
-	Plum,
+	Cherry,
+	Lemon,
+	Milk,
+	Beer,
+	Trout,
+	Shellfish,
+	Beef,
+	Egg,
 	Chili,
-	Fish,
+	PurplePotato,
+	Mushroom
 }
 
+food = ["apple",
+	"cherry",
+	"lemon",
+	"milk",
+	"beer",
+	"trout",
+	"shellfish",
+	"beef",
+	"egg",
+	"chili",
+	"purplePotato",
+	"mushroom"]
+
 ingredients = ds_list_create();
-ds_list_add(ingredients, acquired.Apple);
-ds_list_add(ingredients, acquired.Mushroom);
-ds_list_add(ingredients, acquired.Plum);
+ds_list_add(ingredients, "apple");
+ds_list_add(ingredients, "cherry");
+ds_list_add(ingredients, "lemon");
 
 //ingredientsAmount = 26;
 for(var i = 0; i < 4; i++){  

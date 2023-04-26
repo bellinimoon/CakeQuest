@@ -8,5 +8,5 @@ x_pos3 = camera_get_view_x(view_camera[0]) + 600;
 y_pos3 = camera_get_view_y(view_camera[0]) + 225;
 newOption = true;
 newOptions = noone;
-optionMenu = true; 
+optionMenu = false; 
 optionSelected = noone;
