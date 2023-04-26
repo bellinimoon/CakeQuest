@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_food_bottle",
-  "bbox_bottom": 27,
-  "bbox_left": 4,
-  "bbox_right": 28,
-  "bbox_top": 4,
+  "name": "spr_food_shellfish",
+  "bbox_bottom": 31,
+  "bbox_left": 0,
+  "bbox_right": 31,
+  "bbox_top": 1,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"51e70cfa-bfb6-4846-bdc1-67100bdbaebc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3d0e20af-e94a-43ab-a105-6ecdbed5e0b1",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"483f66a9-f43d-4852-93ce-e2e50a0d6859","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c07c71da-cff5-45ef-b814-c39c789c451c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_food_bottle",
+    "name": "spr_food_shellfish",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"51e70cfa-bfb6-4846-bdc1-67100bdbaebc","path":"sprites/spr_food_bottle/spr_food_bottle.yy",},},},"Disabled":false,"id":"d6a5aa00-6d05-48bf-b43e-d9f54792d23f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3d0e20af-e94a-43ab-a105-6ecdbed5e0b1","path":"sprites/spr_food_shellfish/spr_food_shellfish.yy",},},},"Disabled":false,"id":"5ddf6d87-8e3c-4c90-a555-b3cff389771d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

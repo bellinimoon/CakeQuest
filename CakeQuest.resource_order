@@ -59,6 +59,8 @@
     {"name":"spr_food_bottle","order":9,"path":"sprites/spr_food_bottle/spr_food_bottle.yy",},
     {"name":"spr_food_chili","order":12,"path":"sprites/spr_food_chili/spr_food_chili.yy",},
     {"name":"HouseOwen","order":5,"path":"rooms/HouseOwen/HouseOwen.yy",},
+    {"name":"rm_startmenu","order":11,"path":"rooms/rm_startmenu/rm_startmenu.yy",},
+    {"name":"spr_food_shellfish","order":21,"path":"sprites/spr_food_shellfish/spr_food_shellfish.yy",},
     {"name":"obj_milk","order":10,"path":"objects/obj_milk/obj_milk.yy",},
     {"name":"obj_cow","order":9,"path":"objects/obj_cow/obj_cow.yy",},
     {"name":"obj_flour","order":8,"path":"objects/obj_flour/obj_flour.yy",},
