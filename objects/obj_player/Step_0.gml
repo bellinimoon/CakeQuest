@@ -63,3 +63,4 @@ if (roomName == rm_inventory){
 }else{
 	cookBook = instance_create_layer(x, y, "cookbook", obj_cookBook);
 }
+
