@@ -23,6 +23,7 @@
     {"name":"spr_inventory","order":4,"path":"sprites/spr_inventory/spr_inventory.yy",},
     {"name":"spr_wall","order":3,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_btn_cook","order":3,"path":"sprites/spr_btn_cook/spr_btn_cook.yy",},
+    {"name":"Option","order":1,"path":"scripts/Option/Option.yy",},
     {"name":"rm_inventory","order":8,"path":"rooms/rm_inventory/rm_inventory.yy",},
     {"name":"spr_food_milk","order":17,"path":"sprites/spr_food_milk/spr_food_milk.yy",},
     {"name":"sp_arrowRight","order":6,"path":"sprites/sp_arrowRight/sp_arrowRight.yy",},
@@ -64,6 +65,7 @@
     {"name":"obj_flour","order":8,"path":"objects/obj_flour/obj_flour.yy",},
     {"name":"spr_food_lemon","order":16,"path":"sprites/spr_food_lemon/spr_food_lemon.yy",},
     {"name":"obj_treeChange","order":7,"path":"objects/obj_treeChange/obj_treeChange.yy",},
+    {"name":"obj_optionbox","order":4,"path":"objects/obj_optionbox/obj_optionbox.yy",},
     {"name":"obj_arrowU","order":6,"path":"objects/obj_arrowU/obj_arrowU.yy",},
     {"name":"obj_slime","order":5,"path":"objects/obj_slime/obj_slime.yy",},
     {"name":"spr_unknown","order":5,"path":"sprites/spr_unknown/spr_unknown.yy",},
@@ -84,6 +86,7 @@
     {"name":"spr_food_mushroom","order":18,"path":"sprites/spr_food_mushroom/spr_food_mushroom.yy",},
     {"name":"obj_owen","order":3,"path":"objects/obj_owen/obj_owen.yy",},
     {"name":"spr_owen_back_idle","order":1,"path":"sprites/spr_owen_back_idle/spr_owen_back_idle.yy",},
+    {"name":"spr_optionbox","order":10,"path":"sprites/spr_optionbox/spr_optionbox.yy",},
     {"name":"Flour","order":1,"path":"rooms/Flour/Flour.yy",},
   ],
 }
