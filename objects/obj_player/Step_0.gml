@@ -1,3 +1,6 @@
+depth = -99;
+
+
 // reset the speed to zero at the start of each frame
 	hspd = 0;	
 	vspd = 0;

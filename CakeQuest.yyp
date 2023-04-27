@@ -42,6 +42,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_inventory","folderPath":"folders/Sprites/spr_inventory.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_npcs","folderPath":"folders/Sprites/spr_npcs.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSets","folderPath":"folders/TileSets.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_profile","folderPath":"folders/Sprites/spr_profile.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"READ ME.txt","CopyToMask":-1,"filePath":"datafiles",},
@@ -62,6 +63,7 @@
     {"id":{"name":"outside_house","path":"tilesets/outside_house/outside_house.yy",},},
     {"id":{"name":"door_48x48","path":"sprites/door_48x48/door_48x48.yy",},},
     {"id":{"name":"Tileset_32x32_2","path":"sprites/Tileset_32x32_2/Tileset_32x32_2.yy",},},
+    {"id":{"name":"obj_extraDialogue","path":"objects/obj_extraDialogue/obj_extraDialogue.yy",},},
     {"id":{"name":"obj_egg","path":"objects/obj_egg/obj_egg.yy",},},
     {"id":{"name":"water_waves_32x3241","path":"sprites/water_waves_32x3241/water_waves_32x3241.yy",},},
     {"id":{"name":"Bob_idle_anim_16x16133","path":"sprites/Bob_idle_anim_16x16133/Bob_idle_anim_16x16133.yy",},},
@@ -112,6 +114,7 @@
     {"id":{"name":"sp_chiliTree","path":"sprites/sp_chiliTree/sp_chiliTree.yy",},},
     {"id":{"name":"obj_house","path":"objects/obj_house/obj_house.yy",},},
     {"id":{"name":"Interiors_free_32x32","path":"sprites/Interiors_free_32x32/Interiors_free_32x32.yy",},},
+    {"id":{"name":"spr_owen_face","path":"sprites/spr_owen_face/spr_owen_face.yy",},},
     {"id":{"name":"Bob_idle_16x16","path":"sprites/Bob_idle_16x16/Bob_idle_16x16.yy",},},
     {"id":{"name":"spr_blueguy_front","path":"sprites/spr_blueguy_front/spr_blueguy_front.yy",},},
     {"id":{"name":"water_waves_48x4848","path":"sprites/water_waves_48x4848/water_waves_48x4848.yy",},},

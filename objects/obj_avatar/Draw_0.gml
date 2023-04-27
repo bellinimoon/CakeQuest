@@ -97,7 +97,7 @@ very bad.",1.5,1.5,0)
 			}
 		}
 
-		show_debug_message(alarm[0]);
+		//show_debug_message(alarm[0]);
 	}
 }
 

@@ -4,7 +4,7 @@ timer -= 1;
 if (timer == 0){
 	timer = 100;
 	var choice = random_range(0,3);
-	show_debug_message(choice);
+	//show_debug_message(choice);
 	if (choice < 1){
 		sprite_index = sp_appleTree;
 		picked = false;

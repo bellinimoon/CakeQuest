@@ -13,5 +13,6 @@ function Draw_Text(text, person){
 	col = make_colour_rgb(0, 175, 193);
 	draw_set_color(col);
 	draw_set_halign(fa_left);
+	draw_set_valign(fa_top);
 	draw_text_ext_transformed(x+12,y+8,text,48,sprite_width*(1/0.32),0.25, 0.25, 0);
 }

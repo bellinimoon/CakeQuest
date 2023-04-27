@@ -26,8 +26,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "spr_avatar",
-    "path": "folders/Sprites/spr_avatar.yy",
+    "name": "spr_profile",
+    "path": "folders/Sprites/spr_profile.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

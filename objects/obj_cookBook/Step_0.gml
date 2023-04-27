@@ -1,11 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (mouse_check_button(mb_left) && collision_point(mouse_x, mouse_y, self, false, false))
+if (inventoryAccess && mouse_check_button(mb_left) && collision_point(mouse_x, mouse_y, self, false, false))
 {
 	global.roomName = room_get_name(room); 
-	player_startx = obj_player.x
-	player_starty = obj_player.y
+	player_startx = obj_player.x;
+	player_starty = obj_player.y;
     room_goto(rm_inventory);
 }
 
