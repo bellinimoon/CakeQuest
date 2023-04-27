@@ -53,6 +53,9 @@ Here, take this. Remember to come back here before Sunday.");
 		if(ds_list_size(dialogue) == 0){
 			extraDialogue3 = false;
 			inventoryAccess = true;
+			global.roomName = room_get_name(room); 
+			player_startx = obj_player.x;
+			player_starty = obj_player.y;
 			room_goto(rm_inventory);
 			global.extraDialogueOpen = true;
 		}else{
@@ -79,4 +82,3 @@ Oh no, I forgot I don't have any money.");
 		}
 	}
 }
-show_debug_message(ds_list_size(dialogue));
