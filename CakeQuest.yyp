@@ -15,6 +15,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"obj_collectables","folderPath":"folders/Objects/obj_collectables.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"obj_inventory","folderPath":"folders/Objects/obj_inventory.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects_old","folderPath":"folders/Objects/Objects_old.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Online_sprites_inside","folderPath":"folders/Online_sprites_inside.yy",},
@@ -43,7 +44,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_npcs","folderPath":"folders/Sprites/spr_npcs.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"spr_profile","folderPath":"folders/Sprites/spr_profile.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TileSets","folderPath":"folders/TileSets.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"obj_collectables","folderPath":"folders/Objects/obj_collectables.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"READ ME.txt","CopyToMask":-1,"filePath":"datafiles",},
