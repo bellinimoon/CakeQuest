@@ -29,6 +29,7 @@ food = ["apple",
 	"purplePotato",
 	"mushroom"]
 
+globalvar ingredients;
 ingredients = ds_list_create();
 ds_list_add(ingredients, "apple");
 ds_list_add(ingredients, "cherry");
