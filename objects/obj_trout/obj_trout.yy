@@ -1,20 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
+  "name": "obj_trout",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_owen","path":"objects/obj_owen/obj_owen.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "obj_collectables",
+    "path": "folders/Objects/obj_collectables.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_collectable",
+    "path": "objects/obj_collectable/obj_collectable.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_avatar_front",
-    "path": "sprites/spr_avatar_front/spr_avatar_front.yy",
+    "name": "spr_food_trout",
+    "path": "sprites/spr_food_trout/spr_food_trout.yy",
   },
   "spriteMaskId": null,
   "visible": true,
