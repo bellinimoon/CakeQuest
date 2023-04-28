@@ -7,14 +7,14 @@ Where is it, then?");
 		ds_list_add(dialogue, @"Rowan 
 Ah, didn't find anything worthy...");
 		global.extraDialogueOpen = false;
-	} else{
+	}else{
 		if(ds_list_size(dialogue) == 0){
 			extraDialogue1 = false;
 			global.extraDialogueOpen = true;
 			extraDialogue2 = true;
-		} else if( ds_list_size(dialogue) == 2){
+		}else if( ds_list_size(dialogue) == 2){
 			textBoxFace = spr_owen_face;
-		} else{
+		}else{
 			textBoxFace = spr_avatar_face;
 		}
 	}
