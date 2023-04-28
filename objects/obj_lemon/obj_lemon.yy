@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_apple",
+  "name": "obj_lemon",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_apple",
-    "path": "sprites/spr_food_apple/spr_food_apple.yy",
+    "name": "spr_food_lemon",
+    "path": "sprites/spr_food_lemon/spr_food_lemon.yy",
   },
   "spriteMaskId": null,
   "visible": true,

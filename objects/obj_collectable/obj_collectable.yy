@@ -1,9 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_apple",
+  "name": "obj_collectable",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -11,10 +12,7 @@
     "name": "obj_collectables",
     "path": "folders/Objects/obj_collectables.yy",
   },
-  "parentObjectId": {
-    "name": "obj_collectable",
-    "path": "objects/obj_collectable/obj_collectable.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -30,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_food_apple",
-    "path": "sprites/spr_food_apple/spr_food_apple.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
