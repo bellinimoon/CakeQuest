@@ -13,3 +13,5 @@ camera_set_view_pos(view_camera[0], x-200, y);
 roomName = room_get_name(room); 
 triggered = false;
 passed = false;
+
+meetOwenFirst = true;
