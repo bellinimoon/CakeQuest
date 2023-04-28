@@ -3,6 +3,7 @@
   "ResourceOrderSettings": [
     {"name":"obj_chili","order":8,"path":"objects/obj_chili/obj_chili.yy",},
     {"name":"obj_beef","order":6,"path":"objects/obj_beef/obj_beef.yy",},
+    {"name":"spr_owen_face","order":1,"path":"sprites/spr_owen_face/spr_owen_face.yy",},
     {"name":"obj_egg","order":7,"path":"objects/obj_egg/obj_egg.yy",},
     {"name":"obj_trout","order":2,"path":"objects/obj_trout/obj_trout.yy",},
     {"name":"obj_shrimp","order":4,"path":"objects/obj_shrimp/obj_shrimp.yy",},
@@ -11,5 +12,7 @@
     {"name":"obj_milk","order":1,"path":"objects/obj_milk/obj_milk.yy",},
     {"name":"obj_alcohol","order":3,"path":"objects/obj_alcohol/obj_alcohol.yy",},
     {"name":"obj_mushroom","order":10,"path":"objects/obj_mushroom/obj_mushroom.yy",},
+    {"name":"spr_blueguy_front169170","order":3,"path":"sprites/spr_blueguy_front169170/spr_blueguy_front169170.yy",},
+    {"name":"obj_newton","order":1,"path":"objects/obj_newton/obj_newton.yy",},
   ],
 }
