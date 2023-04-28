@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_npc2",
+  "name": "obj_emma",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_blueguy_front",
-    "path": "sprites/spr_blueguy_front/spr_blueguy_front.yy",
+    "name": "spr_outsideguy_front",
+    "path": "sprites/spr_outsideguy_front/spr_outsideguy_front.yy",
   },
   "spriteMaskId": null,
   "visible": true,
