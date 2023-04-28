@@ -238,8 +238,11 @@
     {"id":{"name":"campfire_48x48","path":"sprites/campfire_48x48/campfire_48x48.yy",},},
     {"id":{"name":"sp_slime","path":"sprites/sp_slime/sp_slime.yy",},},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"obj_mushroom","path":"objects/obj_mushroom/obj_mushroom.yy",},},
     {"id":{"name":"spr_blueguy_front169170","path":"sprites/spr_blueguy_front169170/spr_blueguy_front169170.yy",},},
+=======
+>>>>>>> parent of 07d9369 (Merge branch 'master' into Annabeth)
 =======
 >>>>>>> parent of 07d9369 (Merge branch 'master' into Annabeth)
     {"id":{"name":"spr_milk","path":"sprites/spr_milk/spr_milk.yy",},},
