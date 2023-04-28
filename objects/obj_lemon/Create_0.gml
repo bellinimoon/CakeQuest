@@ -4,5 +4,5 @@
 // Inherit the parent event
 event_inherited();
 
-name = "apple"
-num = 0;
+name = "lemon"
+num = 2;
