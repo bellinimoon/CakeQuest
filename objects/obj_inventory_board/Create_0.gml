@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-/*
+
 enum acquired{
 	Apple,
 	Cherry,
@@ -16,36 +16,24 @@ enum acquired{
 	Mushroom
 }
 
-
 food = ["apple",
-		"cherry",
-		"lemon",
-		"milk",
-		"alcohol",
-		"trout",
-		"shrimp",
-		"shellfish",
-		"beef",
-		"egg",
-		"chili",
-		"potato",
-		"mushroom"]
-*/
+	"cherry",
+	"lemon",
+	"milk",
+	"beer",
+	"trout",
+	"shellfish",
+	"beef",
+	"egg",
+	"chili",
+	"purplePotato",
+	"mushroom"]
+
 globalvar ingredients;
 ingredients = ds_list_create();
 ds_list_add(ingredients, "apple");
 ds_list_add(ingredients, "cherry");
 ds_list_add(ingredients, "lemon");
-ds_list_add(ingredients, "milk");
-ds_list_add(ingredients, "alcohol");
-ds_list_add(ingredients, "trout");
-ds_list_add(ingredients, "shrimp");
-ds_list_add(ingredients, "shellfish");
-ds_list_add(ingredients, "beef");
-ds_list_add(ingredients, "egg");
-ds_list_add(ingredients, "chili");
-ds_list_add(ingredients, "potato");
-ds_list_add(ingredients, "mushroom");
 
 //ingredientsAmount = 26;
 for(var i = 0; i < 4; i++){  
