@@ -13,3 +13,4 @@ optionSelected = noone;
 //when there's a option, it is true
 global.start = true;
 selected = false;
+

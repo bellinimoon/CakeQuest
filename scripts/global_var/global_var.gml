@@ -38,3 +38,16 @@ end2_debtor = false;
 
 globalvar inventoryAccess ;
 inventoryAccess = false;
+
+globalvar got_ingre;
+got_ingre = ds_list_create();
+for (var s = 0; s<13; s++) {
+	ds_list_add(got_ingre,false);
+}
+
+function changeSprite(spr){
+	num = ds_list_find_index(ingredients, spr);
+	with(instance_find(obj_unknown, num)){
+		sprite_index = asset_get_index("spr_food_" + spr);
+	}
+}
