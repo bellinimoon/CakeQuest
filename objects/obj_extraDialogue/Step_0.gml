@@ -79,4 +79,4 @@ Oh no, I forgot I don't have any money.");
 		}
 	}
 }
-show_debug_message(ds_list_size(dialogue));
+//show_debug_message(ds_list_size(dialogue));
