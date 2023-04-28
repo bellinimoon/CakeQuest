@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+/*
 enum acquired{
 	Apple,
 	Cherry,
@@ -16,6 +16,7 @@ enum acquired{
 	Mushroom
 }
 
+
 food = ["apple",
 		"cherry",
 		"lemon",
@@ -29,7 +30,7 @@ food = ["apple",
 		"chili",
 		"potato",
 		"mushroom"]
-
+*/
 globalvar ingredients;
 ingredients = ds_list_create();
 ds_list_add(ingredients, "apple");
