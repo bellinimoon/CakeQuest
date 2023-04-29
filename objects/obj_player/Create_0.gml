@@ -15,3 +15,6 @@ triggered = false;
 passed = false;
 
 //global.meetOwenFirst = 1;
+if (!audio_is_playing(sud_backgroundmusic)) {
+	audio_play_sound(sud_backgroundmusic,0,true);
+}

@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+audio_play_sound(sud_pickup,0,false)
 
 globalvar ingredients;
 ingredients = ds_list_create();

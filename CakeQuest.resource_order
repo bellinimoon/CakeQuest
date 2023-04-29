@@ -3,9 +3,12 @@
   "ResourceOrderSettings": [
     {"name":"obj_trout","order":3,"path":"objects/obj_trout/obj_trout.yy",},
     {"name":"obj_potato","order":9,"path":"objects/obj_potato/obj_potato.yy",},
+    {"name":"sud_pickup","order":2,"path":"sounds/sud_pickup/sud_pickup.yy",},
+    {"name":"Sprite173","order":1,"path":"sprites/Sprite173/Sprite173.yy",},
     {"name":"obj_alcohol","order":2,"path":"objects/obj_alcohol/obj_alcohol.yy",},
     {"name":"spr_dish","order":1,"path":"sprites/spr_dish/spr_dish.yy",},
     {"name":"obj_beef","order":6,"path":"objects/obj_beef/obj_beef.yy",},
+    {"name":"sud_backgroundmusic","order":1,"path":"sounds/sud_backgroundmusic/sud_backgroundmusic.yy",},
     {"name":"obj_shrimp","order":4,"path":"objects/obj_shrimp/obj_shrimp.yy",},
     {"name":"obj_egg","order":7,"path":"objects/obj_egg/obj_egg.yy",},
     {"name":"obj_milk","order":1,"path":"objects/obj_milk/obj_milk.yy",},
