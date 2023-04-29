@@ -58,6 +58,7 @@
     {"id":{"name":"obj_purple","path":"objects/obj_purple/obj_purple.yy",},},
     {"id":{"name":"sp_purple","path":"sprites/sp_purple/sp_purple.yy",},},
     {"id":{"name":"obj_newton","path":"objects/obj_newton/obj_newton.yy",},},
+    {"id":{"name":"spr_emma_front","path":"sprites/spr_emma_front/spr_emma_front.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"spr_avatar_left_idle","path":"sprites/spr_avatar_left_idle/spr_avatar_left_idle.yy",},},
     {"id":{"name":"spr_owen_eat","path":"sprites/spr_owen_eat/spr_owen_eat.yy",},},
@@ -256,7 +257,6 @@
     {"id":{"name":"spr_icon","path":"sprites/spr_icon/spr_icon.yy",},},
     {"id":{"name":"Egg","path":"rooms/Egg/Egg.yy",},},
     {"id":{"name":"water_waves_32x32","path":"sprites/water_waves_32x32/water_waves_32x32.yy",},},
-    {"id":{"name":"spr_outsideguy_front","path":"sprites/spr_outsideguy_front/spr_outsideguy_front.yy",},},
     {"id":{"name":"obj_collectable2","path":"objects/obj_collectable2/obj_collectable2.yy",},},
     {"id":{"name":"door_48x4844","path":"sprites/door_48x4844/door_48x4844.yy",},},
     {"id":{"name":"spr_chili","path":"sprites/spr_chili/spr_chili.yy",},},
@@ -330,6 +330,7 @@
     {"roomId":{"name":"rm_blue","path":"rooms/rm_blue/rm_blue.yy",},},
     {"roomId":{"name":"rm_inventory2","path":"rooms/rm_inventory2/rm_inventory2.yy",},},
     {"roomId":{"name":"rm_startmenu","path":"rooms/rm_startmenu/rm_startmenu.yy",},},
+    {"roomId":{"name":"Map","path":"rooms/Map/Map.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

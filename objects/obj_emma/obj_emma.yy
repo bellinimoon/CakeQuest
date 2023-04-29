@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_outsideguy_front",
-    "path": "sprites/spr_outsideguy_front/spr_outsideguy_front.yy",
+    "name": "spr_emma_front",
+    "path": "sprites/spr_emma_front/spr_emma_front.yy",
   },
   "spriteMaskId": null,
   "visible": true,
