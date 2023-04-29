@@ -1,15 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_egg",
-  "eventList": [],
+  "name": "obj_bread",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects_old",
-    "path": "folders/Objects/Objects_old.yy",
+    "name": "obj_collectables2",
+    "path": "folders/Objects/obj_collectables2.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_collectable",
+    "path": "objects/obj_collectable/obj_collectable.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_egg",
-    "path": "sprites/spr_food_egg/spr_food_egg.yy",
+    "name": "spr_food_sushi",
+    "path": "sprites/spr_food_sushi/spr_food_sushi.yy",
   },
   "spriteMaskId": null,
   "visible": true,

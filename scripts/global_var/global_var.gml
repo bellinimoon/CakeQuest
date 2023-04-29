@@ -48,6 +48,12 @@ for (var s = 0; s<13; s++) {
 	ds_list_add(got_ingre,false);
 }
 
+globalvar got_ingre2;
+got_ingre2 = ds_list_create();
+for (var s = 0; s<13; s++) {
+	ds_list_add(got_ingre2,false);
+}
+
 function changeSprite(spr){
 	num = ds_list_find_index(ingredients, spr);
 	with(instance_find(obj_unknown, num)){

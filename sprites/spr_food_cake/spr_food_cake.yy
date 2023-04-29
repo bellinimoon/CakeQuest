@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_food_popcorn",
-  "bbox_bottom": 43,
-  "bbox_left": 3,
-  "bbox_right": 46,
-  "bbox_top": 9,
+  "name": "spr_food_cake",
+  "bbox_bottom": 40,
+  "bbox_left": 9,
+  "bbox_right": 36,
+  "bbox_top": 8,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8943677b-1ae8-47ba-bf8b-de9b021948ce",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5e9945fd-b3a9-4bf8-9341-ce135a00e705",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 50,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"55f09fc3-bcc5-40bb-9000-af670705ba9d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d5204393-eb03-4885-8e06-a7f4188d07ff","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_food_popcorn",
+    "name": "spr_food_cake",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8943677b-1ae8-47ba-bf8b-de9b021948ce","path":"sprites/spr_food_popcorn/spr_food_popcorn.yy",},},},"Disabled":false,"id":"745dcc4b-a075-41a4-9690-2ba285aeb863","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5e9945fd-b3a9-4bf8-9341-ce135a00e705","path":"sprites/spr_food_cake/spr_food_cake.yy",},},},"Disabled":false,"id":"e56a7f8c-ff5c-4c4f-8152-2cd86294d529","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

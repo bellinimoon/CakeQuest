@@ -1,27 +1,21 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-enum acquiredSec{
-	Cabbage,
-	Carrot,
-	Corn,
-	Tomato,
-	Chili,
-	Straw,
-	Flour,
-	Sausage,
-	Cake,
-	Sushi, 
-	Croissant,
-	Boba,
-	Pudding
-}
-
-
-ingredients = ds_list_create();
-ds_list_add(ingredients, acquiredSec.Cabbage);
-ds_list_add(ingredients, acquiredSec.Carrot);
-ds_list_add(ingredients, acquiredSec.Corn);
+globalvar ingredients2;
+ingredients2 = ds_list_create();
+ds_list_add(ingredients2, "eggplant");
+ds_list_add(ingredients2, "carrot");
+ds_list_add(ingredients2, "corn");
+ds_list_add(ingredients2, "tomato");
+ds_list_add(ingredients2, "meatball");
+ds_list_add(ingredients2, "cake");
+ds_list_add(ingredients2, "sushi");
+ds_list_add(ingredients2, "bread");
+ds_list_add(ingredients2, "cookie");
+ds_list_add(ingredients2, "chocolate");
+ds_list_add(ingredients2, "pudding");
+ds_list_add(ingredients2, "chickenleg");
+ds_list_add(ingredients2, "dumplings");
 
 //ingredientsAmount = 26;
 for(var i = 0; i < 4; i++){  
