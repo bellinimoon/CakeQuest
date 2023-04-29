@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_cookie",
-    "path": "sprites/spr_food_cookie/spr_food_cookie.yy",
+    "name": "spr_food_chocolate",
+    "path": "sprites/spr_food_chocolate/spr_food_chocolate.yy",
   },
   "spriteMaskId": null,
   "visible": true,

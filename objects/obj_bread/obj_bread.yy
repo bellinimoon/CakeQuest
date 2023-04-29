@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_sushi",
-    "path": "sprites/spr_food_sushi/spr_food_sushi.yy",
+    "name": "spr_food_bread",
+    "path": "sprites/spr_food_bread/spr_food_bread.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_apple",
-    "path": "sprites/spr_food_apple/spr_food_apple.yy",
+    "name": "spr_food_eggplant",
+    "path": "sprites/spr_food_eggplant/spr_food_eggplant.yy",
   },
   "spriteMaskId": null,
   "visible": true,
