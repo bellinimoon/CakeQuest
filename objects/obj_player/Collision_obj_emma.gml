@@ -31,11 +31,11 @@ if (triggered == true){
 	if(ds_list_size(dialogue) == 0 && passed == true){
 		triggered = false;
 		passed = false;
-		global.start = false;
 		meetOwenFirst = false;
 	}else if (ds_list_size(dialogue) == 5|| ds_list_size(dialogue) == 6 || ds_list_size(dialogue) == 10){
 		textBoxFace = spr_avatar_face;
 		passed = true;
+		global.start = false;
 	}else{
 		textBoxFace = spr_emma_face;
 	}

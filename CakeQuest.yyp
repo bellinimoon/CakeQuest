@@ -275,6 +275,7 @@
     {"id":{"name":"destroy","path":"scripts/destroy/destroy.yy",},},
     {"id":{"name":"spr_avatar_front","path":"sprites/spr_avatar_front/spr_avatar_front.yy",},},
     {"id":{"name":"Adam_idle_anim_16x16","path":"sprites/Adam_idle_anim_16x16/Adam_idle_anim_16x16.yy",},},
+    {"id":{"name":"spr_newton_face","path":"sprites/spr_newton_face/spr_newton_face.yy",},},
     {"id":{"name":"obj_green","path":"objects/obj_green/obj_green.yy",},},
     {"id":{"name":"spr_outsideguy_front","path":"sprites/spr_outsideguy_front/spr_outsideguy_front.yy",},},
     {"id":{"name":"Alex_phone_16x16","path":"sprites/Alex_phone_16x16/Alex_phone_16x16.yy",},},
