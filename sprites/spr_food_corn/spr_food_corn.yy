@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_food_cookies",
-  "bbox_bottom": 24,
-  "bbox_left": 4,
-  "bbox_right": 26,
-  "bbox_top": 7,
+  "name": "spr_food_corn",
+  "bbox_bottom": 43,
+  "bbox_left": 3,
+  "bbox_right": 46,
+  "bbox_top": 9,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f0ee5bb4-8249-497b-a5e2-474bfe5885a3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8943677b-1ae8-47ba-bf8b-de9b021948ce",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 32,
+  "height": 50,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"abe3b4cc-cf22-4ac5-bdee-a717bc9666c4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"55f09fc3-bcc5-40bb-9000-af670705ba9d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_food_cookies",
+    "name": "spr_food_corn",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f0ee5bb4-8249-497b-a5e2-474bfe5885a3","path":"sprites/spr_food_cookies/spr_food_cookies.yy",},},},"Disabled":false,"id":"d57e091f-0999-4b64-8497-85f14ddae2d8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8943677b-1ae8-47ba-bf8b-de9b021948ce","path":"sprites/spr_food_corn/spr_food_corn.yy",},},},"Disabled":false,"id":"745dcc4b-a075-41a4-9690-2ba285aeb863","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 32,
+  "width": 50,
 }

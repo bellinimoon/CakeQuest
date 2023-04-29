@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_chili",
+  "name": "obj_sushi",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "obj_collectables",
-    "path": "folders/Objects/obj_collectables.yy",
+    "name": "obj_collectables2",
+    "path": "folders/Objects/obj_collectables2.yy",
   },
   "parentObjectId": {
     "name": "obj_collectable",
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_chili",
-    "path": "sprites/spr_food_chili/spr_food_chili.yy",
+    "name": "spr_food_cake",
+    "path": "sprites/spr_food_cake/spr_food_cake.yy",
   },
   "spriteMaskId": null,
   "visible": true,

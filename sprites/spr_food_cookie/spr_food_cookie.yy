@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_food_strawberrycake",
-  "bbox_bottom": 40,
-  "bbox_left": 9,
-  "bbox_right": 36,
-  "bbox_top": 8,
+  "name": "spr_food_cookie",
+  "bbox_bottom": 24,
+  "bbox_left": 4,
+  "bbox_right": 26,
+  "bbox_top": 7,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5e9945fd-b3a9-4bf8-9341-ce135a00e705",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f0ee5bb4-8249-497b-a5e2-474bfe5885a3",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 50,
+  "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d5204393-eb03-4885-8e06-a7f4188d07ff","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"abe3b4cc-cf22-4ac5-bdee-a717bc9666c4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_food_strawberrycake",
+    "name": "spr_food_cookie",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5e9945fd-b3a9-4bf8-9341-ce135a00e705","path":"sprites/spr_food_strawberrycake/spr_food_strawberrycake.yy",},},},"Disabled":false,"id":"e56a7f8c-ff5c-4c4f-8152-2cd86294d529","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f0ee5bb4-8249-497b-a5e2-474bfe5885a3","path":"sprites/spr_food_cookie/spr_food_cookie.yy",},},},"Disabled":false,"id":"d57e091f-0999-4b64-8497-85f14ddae2d8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 50,
+  "width": 32,
 }
