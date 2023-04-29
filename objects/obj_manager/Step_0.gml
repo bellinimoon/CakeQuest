@@ -1,5 +1,4 @@
 /// @description Insert description here
-
 if(global.start == true && ds_list_size(dialogue) == 1){
 	optionMenu = true;
 }

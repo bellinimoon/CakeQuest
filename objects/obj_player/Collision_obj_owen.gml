@@ -36,9 +36,12 @@ if (triggered == true){
 			triggered = false;
 			passed = false;
 			meetOwenFirst = false;
+
 		}else if (ds_list_size(dialogue) == 3 || ds_list_size(dialogue) == 1){
 			textBoxFace = spr_owen_face;
 			passed = true;
+			global.start = true;
+			choiceAmount = 3;
 		}else{
 			textBoxFace = spr_avatar_face;
 		}
