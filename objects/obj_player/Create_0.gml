@@ -14,4 +14,4 @@ roomName = room_get_name(room);
 triggered = false;
 passed = false;
 
-meetOwenFirst = true;
+//global.meetOwenFirst = 1;

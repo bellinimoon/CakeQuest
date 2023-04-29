@@ -21,6 +21,9 @@ player_starty = 220
 globalvar choiceAmount;
 choiceAmount = 2;
 
+globalvar meetOwenFirst;
+meetOwenFirst = 1;
+
 globalvar extraDialogue1;
 extraDialogue1 = false;
 globalvar extraDialogue2;

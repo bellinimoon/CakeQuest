@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if (keyboard_check_pressed(ord("X"))){
-	if(meetOwenFirst){
+	if(meetOwenFirst == 1){
 		choiceAmount = 3;
 	    ds_list_add(dialogue, @"Rowan
 You look lovely today, Ms. Owen!");
@@ -31,12 +31,11 @@ I'd like something that reminds me of home, I will tell you this.");
 
 
 if (triggered == true){
-	if(meetOwenFirst == true){
+	if(meetOwenFirst == 1){
 		if(ds_list_size(dialogue) == 0 && passed == true){
 			triggered = false;
 			passed = false;
-			meetOwenFirst = false;
-
+			meetOwenFirst = 2;
 		}else if (ds_list_size(dialogue) == 3 || ds_list_size(dialogue) == 1){
 			textBoxFace = spr_owen_face;
 			passed = true;
@@ -49,6 +48,7 @@ if (triggered == true){
 		if(ds_list_size(dialogue) == 0 && passed == true){
 			triggered = false;
 			passed = false;
+			meetOwenFirst = 3;
 		}else if (ds_list_size(dialogue) == 5 || ds_list_size(dialogue) == 6){
 			textBoxFace = spr_avatar_face;
 			passed = true;
@@ -57,4 +57,4 @@ if (triggered == true){
 		}		
 	}
 }
-show_debug_message(meetOwenFirst);
+//show_debug_message(meetOwenFirst);

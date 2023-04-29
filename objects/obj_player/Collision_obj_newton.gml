@@ -18,17 +18,17 @@ Hey Newton! Still indulged in physics?");
 		ds_list_add(dialogue, @"Newton
 Oh, it's you again. What do you want from me?");
 		ds_list_add(dialogue, @"Rowan
-Bro, come on. Don’t be overprotective.");
+Bro, come on. Don't be overprotective.");
 		ds_list_add(dialogue, @"Rowan
 You know I never ask for anything from you, at least not physically.");
 		ds_list_add(dialogue, @"Newton
-Whatever. I’m pretty busy with the gravity theories rn, so, do speak quick.");
+Whatever. I'm pretty busy with the gravity theories rn, so, do speak quickly.");
 		ds_list_add(dialogue, @"Rowan
 Ok, single question! What tastes like home to you and your mother?");
 		ds_list_add(dialogue, @"Newton
 What? Are you mad? Why do you even care anyways?");
 		ds_list_add(dialogue, @"Rowan
-I’m trying to be friendly and cook you guys something. ");
+I'm trying to be friendly and cook you guys something. ");
 		ds_list_add(dialogue, @"Rowan
 I'd like to make up for laughing at your discoveries when we were in kindergarten.");
 		ds_list_add(dialogue, @"Newton
@@ -67,4 +67,4 @@ if (triggered == true){
 		}
 	}
 }
-show_debug_message(meetOwenFirst);
+//show_debug_message(meetOwenFirst);
