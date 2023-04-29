@@ -1,19 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_corn",
+  "name": "obj_trout",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "obj_collectables2",
-    "path": "folders/Objects/obj_collectables2.yy",
+    "name": "obj_collectables",
+    "path": "folders/Objects/obj_collectables.yy",
   },
   "parentObjectId": {
-    "name": "obj_collectable2",
-    "path": "objects/obj_collectable2/obj_collectable2.yy",
+    "name": "obj_collectable",
+    "path": "objects/obj_collectable/obj_collectable.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_corn",
-    "path": "sprites/spr_food_corn/spr_food_corn.yy",
+    "name": "spr_food_alcohol",
+    "path": "sprites/spr_food_alcohol/spr_food_alcohol.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_shrimp",
-    "path": "sprites/spr_food_shrimp/spr_food_shrimp.yy",
+    "name": "spr_food_trout",
+    "path": "sprites/spr_food_trout/spr_food_trout.yy",
   },
   "spriteMaskId": null,
   "visible": true,

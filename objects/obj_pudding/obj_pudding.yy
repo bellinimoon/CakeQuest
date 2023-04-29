@@ -12,8 +12,8 @@
     "path": "folders/Objects/obj_collectables2.yy",
   },
   "parentObjectId": {
-    "name": "obj_collectable",
-    "path": "objects/obj_collectable/obj_collectable.yy",
+    "name": "obj_collectable2",
+    "path": "objects/obj_collectable2/obj_collectable2.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

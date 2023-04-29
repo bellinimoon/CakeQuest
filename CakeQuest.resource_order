@@ -1,4 +1,15 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_trout","order":3,"path":"objects/obj_trout/obj_trout.yy",},
+    {"name":"obj_potato","order":9,"path":"objects/obj_potato/obj_potato.yy",},
+    {"name":"obj_alcohol","order":2,"path":"objects/obj_alcohol/obj_alcohol.yy",},
+    {"name":"obj_beef","order":6,"path":"objects/obj_beef/obj_beef.yy",},
+    {"name":"obj_shrimp","order":4,"path":"objects/obj_shrimp/obj_shrimp.yy",},
+    {"name":"obj_egg","order":7,"path":"objects/obj_egg/obj_egg.yy",},
+    {"name":"obj_milk","order":1,"path":"objects/obj_milk/obj_milk.yy",},
+    {"name":"obj_chili","order":8,"path":"objects/obj_chili/obj_chili.yy",},
+    {"name":"obj_mushroom","order":10,"path":"objects/obj_mushroom/obj_mushroom.yy",},
+    {"name":"obj_shellfish","order":5,"path":"objects/obj_shellfish/obj_shellfish.yy",},
+  ],
 }

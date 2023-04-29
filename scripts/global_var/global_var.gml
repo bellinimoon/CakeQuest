@@ -60,3 +60,9 @@ function changeSprite(spr){
 		sprite_index = asset_get_index("spr_food_" + spr);
 	}
 }
+function changeSprite2(spr){
+	num = ds_list_find_index(ingredients2, spr);
+	with(instance_find(obj_unknown, num)){
+		sprite_index = asset_get_index("spr_food_" + spr);
+	}
+}
