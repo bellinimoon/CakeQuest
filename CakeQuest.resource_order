@@ -9,8 +9,6 @@
     {"name":"spr_profile","order":11,"path":"folders/Sprites/spr_profile.yy",},
   ],
   "ResourceOrderSettings": [
-<<<<<<< HEAD
-<<<<<<< HEAD
     {"name":"obj_chili","order":8,"path":"objects/obj_chili/obj_chili.yy",},
     {"name":"obj_beef","order":6,"path":"objects/obj_beef/obj_beef.yy",},
     {"name":"spr_owen_face","order":1,"path":"sprites/spr_owen_face/spr_owen_face.yy",},
@@ -24,9 +22,6 @@
     {"name":"obj_mushroom","order":10,"path":"objects/obj_mushroom/obj_mushroom.yy",},
     {"name":"spr_blueguy_front169170","order":3,"path":"sprites/spr_blueguy_front169170/spr_blueguy_front169170.yy",},
     {"name":"obj_newton","order":1,"path":"objects/obj_newton/obj_newton.yy",},
-=======
-=======
->>>>>>> parent of 07d9369 (Merge branch 'master' into Annabeth)
     {"name":"obj_purple","order":21,"path":"objects/obj_purple/obj_purple.yy",},
     {"name":"obj_newton","order":2,"path":"objects/obj_newton/obj_newton.yy",},
     {"name":"spr_owen_eat","order":2,"path":"sprites/spr_owen_eat/spr_owen_eat.yy",},
@@ -58,7 +53,7 @@
     {"name":"obj_house","order":16,"path":"objects/obj_house/obj_house.yy",},
     {"name":"spr_owen_face","order":1,"path":"sprites/spr_owen_face/spr_owen_face.yy",},
     {"name":"spr_food_tomato","order":23,"path":"sprites/spr_food_tomato/spr_food_tomato.yy",},
-    {"name":"spr_blueguy_front","order":8,"path":"sprites/spr_blueguy_front/spr_blueguy_front.yy",},
+    {"name":"spr_blueguy_front","order":7,"path":"sprites/spr_blueguy_front/spr_blueguy_front.yy",},
     {"name":"obj_mill","order":15,"path":"objects/obj_mill/obj_mill.yy",},
     {"name":"spr_food_","order":6,"path":"sprites/spr_food_/spr_food_.yy",},
     {"name":"spr_food_fish","order":14,"path":"sprites/spr_food_fish/spr_food_fish.yy",},
@@ -128,9 +123,5 @@
     {"name":"spr_owen_back_idle","order":1,"path":"sprites/spr_owen_back_idle/spr_owen_back_idle.yy",},
     {"name":"spr_optionbox","order":10,"path":"sprites/spr_optionbox/spr_optionbox.yy",},
     {"name":"Flour","order":1,"path":"rooms/Flour/Flour.yy",},
-<<<<<<< HEAD
->>>>>>> parent of 07d9369 (Merge branch 'master' into Annabeth)
-=======
->>>>>>> parent of 07d9369 (Merge branch 'master' into Annabeth)
   ],
 }

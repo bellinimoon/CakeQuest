@@ -237,14 +237,8 @@
     {"id":{"name":"spr_unknown","path":"sprites/spr_unknown/spr_unknown.yy",},},
     {"id":{"name":"campfire_48x48","path":"sprites/campfire_48x48/campfire_48x48.yy",},},
     {"id":{"name":"sp_slime","path":"sprites/sp_slime/sp_slime.yy",},},
-<<<<<<< HEAD
-<<<<<<< HEAD
     {"id":{"name":"obj_mushroom","path":"objects/obj_mushroom/obj_mushroom.yy",},},
     {"id":{"name":"spr_blueguy_front169170","path":"sprites/spr_blueguy_front169170/spr_blueguy_front169170.yy",},},
-=======
->>>>>>> parent of 07d9369 (Merge branch 'master' into Annabeth)
-=======
->>>>>>> parent of 07d9369 (Merge branch 'master' into Annabeth)
     {"id":{"name":"spr_milk","path":"sprites/spr_milk/spr_milk.yy",},},
     {"id":{"name":"spr_icon","path":"sprites/spr_icon/spr_icon.yy",},},
     {"id":{"name":"Egg","path":"rooms/Egg/Egg.yy",},},
@@ -284,6 +278,7 @@
     {"id":{"name":"destroy","path":"scripts/destroy/destroy.yy",},},
     {"id":{"name":"spr_avatar_front","path":"sprites/spr_avatar_front/spr_avatar_front.yy",},},
     {"id":{"name":"Adam_idle_anim_16x16","path":"sprites/Adam_idle_anim_16x16/Adam_idle_anim_16x16.yy",},},
+    {"id":{"name":"spr_newton_face","path":"sprites/spr_newton_face/spr_newton_face.yy",},},
     {"id":{"name":"obj_green","path":"objects/obj_green/obj_green.yy",},},
     {"id":{"name":"spr_outsideguy_front","path":"sprites/spr_outsideguy_front/spr_outsideguy_front.yy",},},
     {"id":{"name":"Alex_phone_16x16","path":"sprites/Alex_phone_16x16/Alex_phone_16x16.yy",},},

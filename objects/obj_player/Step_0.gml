@@ -1,5 +1,5 @@
 depth = -99;
-
+show_debug_message(meetOwenFirst);
 
 // reset the speed to zero at the start of each frame
 	hspd = 0;	
