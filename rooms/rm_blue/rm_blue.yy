@@ -23,7 +23,6 @@
     {"name":"inst_77C6C485","path":"rooms/rm_blue/rm_blue.yy",},
     {"name":"inst_13CA28A8","path":"rooms/rm_blue/rm_blue.yy",},
     {"name":"inst_FE09BF4","path":"rooms/rm_blue/rm_blue.yy",},
-    {"name":"inst_1C618FF2","path":"rooms/rm_blue/rm_blue.yy",},
   ],
   "isDnd": false,
   "layers": [
