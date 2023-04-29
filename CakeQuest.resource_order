@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings": [
     {"name":"obj_collectables","order":9,"path":"folders/Objects/obj_collectables.yy",},
+    {"name":"obj_collectables2","order":12,"path":"folders/Objects/obj_collectables2.yy",},
     {"name":"obj_inventory","order":10,"path":"folders/Objects/obj_inventory.yy",},
     {"name":"Objects_old","order":11,"path":"folders/Objects/Objects_old.yy",},
-    {"name":"obj_collectables2","order":12,"path":"folders/Objects/obj_collectables2.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_wall","order":8,"path":"objects/obj_wall/obj_wall.yy",},
