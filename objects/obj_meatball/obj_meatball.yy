@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_tomato",
-    "path": "sprites/spr_food_tomato/spr_food_tomato.yy",
+    "name": "spr_food_meatball",
+    "path": "sprites/spr_food_meatball/spr_food_meatball.yy",
   },
   "spriteMaskId": null,
   "visible": true,

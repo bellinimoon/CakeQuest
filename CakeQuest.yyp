@@ -139,6 +139,7 @@
     {"id":{"name":"spr_avatar_back_idle","path":"sprites/spr_avatar_back_idle/spr_avatar_back_idle.yy",},},
     {"id":{"name":"Tileset_32x32_9","path":"sprites/Tileset_32x32_9/Tileset_32x32_9.yy",},},
     {"id":{"name":"spr_food_","path":"sprites/spr_food_/spr_food_.yy",},},
+    {"id":{"name":"spr_dish","path":"sprites/spr_dish/spr_dish.yy",},},
     {"id":{"name":"spr_food_trout","path":"sprites/spr_food_trout/spr_food_trout.yy",},},
     {"id":{"name":"obj_inventory_board","path":"objects/obj_inventory_board/obj_inventory_board.yy",},},
     {"id":{"name":"spr_food_potato","path":"sprites/spr_food_potato/spr_food_potato.yy",},},
