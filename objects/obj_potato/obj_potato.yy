@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_chili",
-    "path": "sprites/spr_food_chili/spr_food_chili.yy",
+    "name": "spr_food_potato",
+    "path": "sprites/spr_food_potato/spr_food_potato.yy",
   },
   "spriteMaskId": null,
   "visible": true,
