@@ -76,7 +76,8 @@ Oh no, I forgot I don't have any money.");
 		if(ds_list_size(dialogue) == 0){
 			extraDialogue4 = false;
 			global.extraDialogueOpen = true;
-			end2_debtor = true;
+			endName = "debtor";
+			room_goto(rm_end);
 		}else{
 			textBoxFace = spr_avatar_face;
 		}

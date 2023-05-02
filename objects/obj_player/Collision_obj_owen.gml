@@ -29,7 +29,6 @@ I'd like something that reminds me of home, I will tell you this.");
 	}
 }
 
-
 if (triggered == true){
 	if(meetOwenFirst == 1){
 		if(ds_list_size(dialogue) == 0 && passed == true){

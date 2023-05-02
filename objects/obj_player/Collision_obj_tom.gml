@@ -3,9 +3,9 @@
 
 if (keyboard_check_pressed(ord("X"))){
 	if(meetOwenFirst == 1){
-		ds_list_add(dialogue, @"Sam
+		ds_list_add(dialogue, @"Tom
 Didn't see you this morning.");
-		ds_list_add(dialogue, @"Rowan
+		ds_list_add(dialogue, @"Tom
 You'd better go find Ms. Owen in her red house to join the casserole contest.");
 		triggered = true;
 	}else{
@@ -43,18 +43,16 @@ if (triggered == true){
 		if(ds_list_size(dialogue) == 0 && passed == true){
 			triggered = false;
 			passed = false;
-		}else if (ds_list_size(dialogue) == 2){
+		}else{
 			textBoxFace = spr_tom_face;
 			passed = true;
 			global.start = false;
-		}else{
-			textBoxFace = spr_avatar_face;
 		}
 	}else{
 		if(ds_list_size(dialogue) == 0 && passed == true){
 			triggered = false;
 			passed = false;
-		}else if (ds_list_size(dialogue) == 3|| ds_list_size(dialogue) == 4 || ds_list_size(dialogue) == 6|| ds_list_size(dialogue) == 9|| ds_list_size(dialogue) == 11){
+		}else if (ds_list_size(dialogue) == 3|| ds_list_size(dialogue) == 4 || ds_list_size(dialogue) == 6|| ds_list_size(dialogue) == 10|| ds_list_size(dialogue) == 12){
 			textBoxFace = spr_tom_face;
 			passed = true;
 			global.start = false;

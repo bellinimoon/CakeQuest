@@ -2,13 +2,15 @@ globalvar dialogue;
 globalvar choices;
 choices = 0;
 dialogue = ds_list_create()
-ds_list_add(dialogue, @"Rowan
-Here I go succeeding the throne of the king of comic books! I need to go to Ms.Owen's home NOW!");
-ds_list_add(dialogue, @"Rowan
-It's just on the right side of my house, so it shouldn't take long!");
-ds_list_add(dialogue, @"Rowan
-But first of all, let me leave my house!");
-ds_list_add(dialogue, @"Ready?");
+//ds_list_add(dialogue, @"Rowan
+//Here I go succeeding the throne of the king of comic books! I need to go to Ms.Owen's home NOW!");
+//ds_list_add(dialogue, @"Rowan
+//It's just on the right side of my house, so it shouldn't take long!");
+//ds_list_add(dialogue, @"Rowan
+//But first of all, let me leave my house!");
+//ds_list_add(dialogue, @"Ready?");
+
+globalvar endName;
 
 globalvar textBoxFace;
 textBoxFace = spr_avatar_face;
@@ -18,8 +20,9 @@ player_startx = 704
 globalvar player_starty;
 player_starty = 220
 
+
 globalvar choiceAmount;
-choiceAmount = 2;
+//choiceAmount = 2;
 
 globalvar meetOwenFirst;
 meetOwenFirst = 1;
@@ -33,11 +36,6 @@ extraDialogue3 = false;
 globalvar extraDialogue4;
 extraDialogue4 = false;
 
-
-globalvar end1_dead;
-end1_dead = false;
-globalvar end2_debtor;
-end2_debtor = false;
 
 globalvar inventoryAccess ;
 inventoryAccess = false;

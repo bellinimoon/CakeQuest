@@ -27,7 +27,8 @@ if(optionMenu){
 }else if(choices == 1 && optionSelected != noone && selected == true){
 	if(optionSelected == 2){
 		selected = false;
-		end1_dead = true;
+		room_goto(rm_end)
+		endName = "ASW";
 	}
 	
 }else if(choices == 2 && optionSelected != noone && selected == true){
