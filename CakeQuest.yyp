@@ -332,6 +332,7 @@
     {"id":{"name":"Flour","path":"rooms/Flour/Flour.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_startmenu","path":"rooms/rm_startmenu/rm_startmenu.yy",},},
     {"roomId":{"name":"rm_green","path":"rooms/rm_green/rm_green.yy",},},
     {"roomId":{"name":"rm_inventory","path":"rooms/rm_inventory/rm_inventory.yy",},},
     {"roomId":{"name":"Milk","path":"rooms/Milk/Milk.yy",},},
@@ -340,7 +341,6 @@
     {"roomId":{"name":"HouseOwen","path":"rooms/HouseOwen/HouseOwen.yy",},},
     {"roomId":{"name":"rm_blue","path":"rooms/rm_blue/rm_blue.yy",},},
     {"roomId":{"name":"rm_inventory2","path":"rooms/rm_inventory2/rm_inventory2.yy",},},
-    {"roomId":{"name":"rm_startmenu","path":"rooms/rm_startmenu/rm_startmenu.yy",},},
     {"roomId":{"name":"Map","path":"rooms/Map/Map.yy",},},
   ],
   "TextureGroups": [
