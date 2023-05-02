@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_lemon",
-    "path": "sprites/spr_food_lemon/spr_food_lemon.yy",
+    "name": "spr_food_milk",
+    "path": "sprites/spr_food_milk/spr_food_milk.yy",
   },
   "spriteMaskId": null,
   "visible": true,

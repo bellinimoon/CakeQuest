@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_food_beef",
-    "path": "sprites/spr_food_beef/spr_food_beef.yy",
+    "name": "spr_food_egg",
+    "path": "sprites/spr_food_egg/spr_food_egg.yy",
   },
   "spriteMaskId": null,
   "visible": true,
