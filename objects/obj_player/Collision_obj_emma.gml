@@ -12,7 +12,7 @@ I haven't seen you in years, ever since I started working as Ms. Owen's maid.");
 	ds_list_add(dialogue, @"Emma
 How are you doing... Wait, this is about the contest again, isn't it?");
 	ds_list_add(dialogue, @"Rowan
-Seems like I'm not the only one... Sorry Emmie, we'll talk another time.");
+Seems like I'm not the only one... Sorry Emmie, we'll chat casually another time.");
 	ds_list_add(dialogue, @"Rowan
 Anything you could tell me?");
 	ds_list_add(dialogue, @"Emma

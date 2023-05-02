@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_newton",
+  "name": "obj_tom",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_newton_front",
-    "path": "sprites/spr_newton_front/spr_newton_front.yy",
+    "name": "spr_blueguy_front",
+    "path": "sprites/spr_blueguy_front/spr_blueguy_front.yy",
   },
   "spriteMaskId": null,
   "visible": true,
