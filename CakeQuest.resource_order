@@ -23,6 +23,7 @@
     {"name":"spr_owen_left_idle","order":5,"path":"sprites/spr_owen_left_idle/spr_owen_left_idle.yy",},
     {"name":"spr_owen","order":4,"path":"sprites/spr_owen/spr_owen.yy",},
     {"name":"obj_beef","order":6,"path":"objects/obj_beef/obj_beef.yy",},
+    {"name":"sud_fishing","order":3,"path":"sounds/sud_fishing/sud_fishing.yy",},
     {"name":"sud_backgroundmusic","order":1,"path":"sounds/sud_backgroundmusic/sud_backgroundmusic.yy",},
     {"name":"spr_newton_face","order":4,"path":"sprites/spr_newton_face/spr_newton_face.yy",},
     {"name":"Amelia_idle_anim_16x16174","order":10,"path":"sprites/Amelia_idle_anim_16x16174/Amelia_idle_anim_16x16174.yy",},
@@ -44,5 +45,6 @@
     {"name":"obj_recook","order":2,"path":"objects/obj_recook/obj_recook.yy",},
     {"name":"spr_tom_face","order":1,"path":"sprites/spr_tom_face/spr_tom_face.yy",},
     {"name":"obj_endTitle","order":1,"path":"objects/obj_endTitle/obj_endTitle.yy",},
+    {"name":"sud_fishing11","order":4,"path":"sounds/sud_fishing11/sud_fishing11.yy",},
   ],
 }
