@@ -60,7 +60,6 @@
     {"name":"inst_6A155BCD","path":"rooms/Map/Map.yy",},
     {"name":"inst_4D15662B","path":"rooms/Map/Map.yy",},
     {"name":"inst_502F5254","path":"rooms/Map/Map.yy",},
-    {"name":"inst_6FDE3A03","path":"rooms/Map/Map.yy",},
     {"name":"inst_4B04B8E5","path":"rooms/Map/Map.yy",},
     {"name":"inst_1093AB1A","path":"rooms/Map/Map.yy",},
     {"name":"inst_55CD75E1","path":"rooms/Map/Map.yy",},
