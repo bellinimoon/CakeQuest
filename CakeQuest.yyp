@@ -291,6 +291,7 @@
     {"id":{"name":"obj_selectbox","path":"objects/obj_selectbox/obj_selectbox.yy",},},
     {"id":{"name":"spr_strawT","path":"sprites/spr_strawT/spr_strawT.yy",},},
     {"id":{"name":"sp_slimeA","path":"sprites/sp_slimeA/sp_slimeA.yy",},},
+    {"id":{"name":"obj_fishing_area","path":"objects/obj_fishing_area/obj_fishing_area.yy",},},
     {"id":{"name":"sp_mill","path":"sprites/sp_mill/sp_mill.yy",},},
     {"id":{"name":"Amelia_idle_anim_16x16","path":"sprites/Amelia_idle_anim_16x16/Amelia_idle_anim_16x16.yy",},},
     {"id":{"name":"obj_chick","path":"objects/obj_chick/obj_chick.yy",},},

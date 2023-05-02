@@ -30,6 +30,7 @@
     {"name":"spr_owen_front_idle","order":2,"path":"sprites/spr_owen_front_idle/spr_owen_front_idle.yy",},
     {"name":"spr_avatar_face","order":2,"path":"sprites/spr_avatar_face/spr_avatar_face.yy",},
     {"name":"Alex_idle_anim_16x16132","order":1,"path":"sprites/Alex_idle_anim_16x16132/Alex_idle_anim_16x16132.yy",},
+    {"name":"obj_fishing_area","order":2,"path":"objects/obj_fishing_area/obj_fishing_area.yy",},
     {"name":"spr_tom_face","order":1,"path":"sprites/spr_tom_face/spr_tom_face.yy",},
   ],
 }
