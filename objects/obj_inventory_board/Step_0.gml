@@ -5,3 +5,5 @@ for (var j = 0; j < 13; j++) {
 		changeSprite(ds_list_find_value(ingredients,j),j);
 	}
 }
+
+

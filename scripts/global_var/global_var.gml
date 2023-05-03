@@ -39,7 +39,7 @@ extraDialogue4 = false;
 
 
 globalvar inventoryAccess ;
-inventoryAccess = false;
+
 
 globalvar got_ingre;
 got_ingre = ds_list_create();
@@ -93,3 +93,12 @@ function changeSprite2(spr,j){
 		}
 	}
 }
+
+globalvar foodCollection;
+foodCollection = [["Apple",false],["Cherry", false],["Lemon", false],
+["Milk", false],["Alcohol", false],["Trout", false],["Shrimp", false],
+["Shellfish", false],["Beef", false],["Egg", false],["Chili", false],
+["Potato", false],["Mushroom", false ],["Eggplant", false],["Carrot", false],
+["Corn", false],["Tomato", false],["Meatball", false],["Cake", false],["Sushi", false],
+["Bread", false],["Cookie", false],["Chocolate", false],["Pudding", false],["chickenleg", false],
+["Dumplings", false]];

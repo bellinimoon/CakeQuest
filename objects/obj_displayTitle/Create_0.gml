@@ -15,9 +15,17 @@ extraDialogue2 = false;
 extraDialogue3 = false;
 extraDialogue4 = false;
 
-inventoryAccess = false;
+inventoryAccess = true;
 
 player_starty = 220
 player_startx = 704
 
 chickenCollected = 0;
+
+foodCollection = [["Apple",false],["Cherry", false],["Lemon", false],
+["Milk", false],["Alcohol", false],["Trout", false],["Shrimp", false],
+["Shellfish", false],["Beef", false],["Egg", false],["Chili", false],
+["Potato", false],["Mushroom", false ],["Eggplant", false],["Carrot", false],
+["Corn", false],["Tomato", false],["Meatball", false],["Cake", false],["Sushi", false],
+["Bread", false],["Cookie", false],["Chocolate", false],["Pudding", false],["chickenleg", false],
+["Dumplings", false]];
