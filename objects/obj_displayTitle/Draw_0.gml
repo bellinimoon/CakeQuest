@@ -6,4 +6,4 @@ draw_set_color(col);
 draw_set_halign(fa_center);
 draw_set_valign(fa_top);
 //draw_text(500, 500, "sads");
-draw_text_transformed(room_width / 2, room_height / 2 + 60 , "CASSEROLE", 2, 2, 0);
+draw_text_transformed(room_width / 2, room_height / 2 + 60 , "CasseRole", 2, 2, 0);

@@ -19,7 +19,6 @@
     {"name":"obj_potato","order":9,"path":"objects/obj_potato/obj_potato.yy",},
     {"name":"Bob_idle_anim_16x16133","order":7,"path":"sprites/Bob_idle_anim_16x16133/Bob_idle_anim_16x16133.yy",},
     {"name":"sud_pickup","order":2,"path":"sounds/sud_pickup/sud_pickup.yy",},
-    {"name":"Sprite173","order":1,"path":"sprites/Sprite173/Sprite173.yy",},
     {"name":"obj_displayName","order":3,"path":"objects/obj_displayName/obj_displayName.yy",},
     {"name":"obj_door","order":9,"path":"objects/obj_door/obj_door.yy",},
     {"name":"spr_cow","order":3,"path":"sprites/spr_cow/spr_cow.yy",},
