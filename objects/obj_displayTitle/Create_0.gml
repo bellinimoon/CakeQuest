@@ -19,3 +19,5 @@ inventoryAccess = false;
 
 player_starty = 220
 player_startx = 704
+
+chickenCollected = 0;

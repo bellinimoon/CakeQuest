@@ -20,6 +20,7 @@ player_startx = 704
 globalvar player_starty;
 player_starty = 220
 
+globalvar chickenCollected;
 
 globalvar choiceAmount;
 //choiceAmount = 2;
