@@ -7,7 +7,6 @@ draw_self()
 draw_text_transformed(x+20,y-5,"Press X to interact!",0.2,0.2,0);
 
 if (keyboard_check_pressed(ord("X")) && place_meeting(x,y,obj_player) && timer <= 0) {
-	//trout, shrimp, shellfish
 	alpha = 1;
 	timer = 180;
 	y_pos = obj_player.y + 15;
