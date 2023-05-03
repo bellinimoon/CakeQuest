@@ -234,7 +234,6 @@
     {"id":{"name":"campfire_48x4842","path":"sprites/campfire_48x4842/campfire_48x4842.yy",},},
     {"id":{"name":"TileSet_room","path":"tilesets/TileSet_room/TileSet_room.yy",},},
     {"id":{"name":"obj_egg","path":"objects/obj_egg/obj_egg.yy",},},
-    {"id":{"name":"spr_selectBoxS","path":"sprites/spr_selectBoxS/spr_selectBoxS.yy",},},
     {"id":{"name":"obj_milk","path":"objects/obj_milk/obj_milk.yy",},},
     {"id":{"name":"TileSet_room_blue","path":"tilesets/TileSet_room_blue/TileSet_room_blue.yy",},},
     {"id":{"name":"obj_barrier","path":"objects/obj_barrier/obj_barrier.yy",},},
