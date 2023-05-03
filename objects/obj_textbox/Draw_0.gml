@@ -5,8 +5,10 @@ function Draw_Text(text, person){
 	draw_self();
 	draw_set_alpha(1)
 	var offset = 3;
+	
 	x = camera_get_view_x(view_camera[0]) + 10;
 	y = camera_get_view_y(view_camera[0]) + camera_get_view_height(view_camera[0]) - sprite_height - 10;
+	
 
 	draw_sprite(person, 0, x + 350 + offset, y + 5 + offset);
 	draw_set_font(fnt_peaberry);

@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sp_purple",
-    "path": "sprites/sp_purple/sp_purple.yy",
+    "name": "spr_barrier",
+    "path": "sprites/spr_barrier/spr_barrier.yy",
   },
   "spriteMaskId": null,
   "visible": true,

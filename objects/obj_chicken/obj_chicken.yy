@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_wall",
+  "name": "obj_chicken",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "obj_collectables",
+    "path": "folders/Objects/obj_collectables.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,9 +26,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_wall",
-    "path": "sprites/spr_wall/spr_wall.yy",
+    "name": "spr_chicken",
+    "path": "sprites/spr_chicken/spr_chicken.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
