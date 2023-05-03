@@ -15,7 +15,7 @@ extraDialogue2 = false;
 extraDialogue3 = false;
 extraDialogue4 = false;
 
-inventoryAccess = true;
+inventoryAccess = false;
 
 player_starty = 220
 player_startx = 704
