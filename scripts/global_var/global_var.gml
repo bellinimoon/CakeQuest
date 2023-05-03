@@ -46,22 +46,50 @@ got_ingre = ds_list_create();
 for (var s = 0; s<13; s++) {
 	ds_list_add(got_ingre,false);
 }
-
 globalvar got_ingre2;
 got_ingre2 = ds_list_create();
 for (var s = 0; s<13; s++) {
 	ds_list_add(got_ingre2,false);
 }
 
-function changeSprite(spr){
+globalvar select_ingre;
+select_ingre = ds_list_create();
+for (var s = 0; s<13; s++) {
+	ds_list_add(select_ingre,false);
+}
+globalvar select_ingre2;
+select_ingre2 = ds_list_create();
+for (var s = 0; s<13; s++) {
+	ds_list_add(select_ingre2,false);
+}
+
+function changeSprite(spr,j){
 	num = ds_list_find_index(ingredients, spr);
 	with(instance_find(obj_unknown, num)){
 		sprite_index = asset_get_index("spr_food_" + spr);
 	}
+	if (ds_list_find_value(select_ingre,num)) {
+		with(instance_find(obj_selectbox,num)) {
+			image_index = 1;
+		}
+	} else {
+		with(instance_find(obj_selectbox,num)) {
+			image_index = 0;
+		}
+	}
 }
-function changeSprite2(spr){
+function changeSprite2(spr,j){
 	num = ds_list_find_index(ingredients2, spr);
 	with(instance_find(obj_unknown, num)){
 		sprite_index = asset_get_index("spr_food_" + spr);
+	}
+	if (ds_list_find_value(select_ingre2,num)) {
+		with(instance_find(obj_selectbox,num)) {
+			image_index = 1;
+		}
+	} else {
+		with(instance_find(obj_selectbox,num)) {
+			image_index = 0;
+		}
 	}
 }

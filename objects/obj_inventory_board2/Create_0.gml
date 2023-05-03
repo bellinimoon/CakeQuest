@@ -20,13 +20,19 @@ ds_list_add(ingredients2, "dumplings");
 
 //ingredientsAmount = 26;
 for(var i = 0; i < 4; i++){  
-	instance_create_layer(120 + x + 100*i, y + 100, "boxes", obj_selectbox);
+	with(instance_create_layer(120 + x + 100*i, y + 100, "boxes", obj_selectbox)){
+		box_num = i;
+	};
 }
 for(var i = 0; i < 5; i++){ 
-	instance_create_layer(55 + x + 100*i, y + 170, "boxes", obj_selectbox);
+	with(instance_create_layer(55 + x + 100*i, y + 170, "boxes", obj_selectbox)) {
+		box_num = 4 + i;
+	};
 }
 for(var i = 0; i < 4; i++){ 
-	instance_create_layer(95 + x + 100*i, y + 240, "boxes", obj_selectbox);
+	with(instance_create_layer(95 + x + 100*i, y + 240, "boxes", obj_selectbox)) {
+		box_num = 9 + i;
+	};
 }
 
 
