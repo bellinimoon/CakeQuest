@@ -4,7 +4,7 @@
 if (keyboard_check_pressed(ord("X"))){
 	if(meetOwenFirst == 1){
 		ds_list_add(dialogue, @"Emma
-Kinda busy rn.");
+Kinda busy making chocolate rn，");
 		ds_list_add(dialogue, @"Emma
 Ms. Owen's in the red house if you are looking for her.");
 		triggered = true;
