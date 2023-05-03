@@ -15,6 +15,6 @@ MoveY(m_randomy * m_speedy);
 if (place_meeting(x,y,obj_player) and keyboard_check(ord("X")))
 {
     instance_destroy();
+	chickenCollected ++;
 	//audio_play_sound(sud_chick, 8, false);
-	//global.find_chick ++;
 }
