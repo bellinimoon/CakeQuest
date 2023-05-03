@@ -76,6 +76,12 @@
     {"name":"inst_7964CB4F","path":"rooms/Map/Map.yy",},
     {"name":"inst_33DE9C65","path":"rooms/Map/Map.yy",},
     {"name":"inst_6B703151","path":"rooms/Map/Map.yy",},
+    {"name":"inst_26BAB501","path":"rooms/Map/Map.yy",},
+    {"name":"inst_6D4446D3","path":"rooms/Map/Map.yy",},
+    {"name":"inst_18DDEA4D","path":"rooms/Map/Map.yy",},
+    {"name":"inst_3350F1C6","path":"rooms/Map/Map.yy",},
+    {"name":"inst_58850A04","path":"rooms/Map/Map.yy",},
+    {"name":"inst_3130F66B","path":"rooms/Map/Map.yy",},
   ],
   "isDnd": false,
   "layers": [

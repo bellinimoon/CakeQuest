@@ -6,3 +6,4 @@ event_inherited();
 
 name = "apple"
 num = 0;
+timer = 0;
