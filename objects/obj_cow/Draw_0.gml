@@ -13,8 +13,8 @@ if (keyboard_check_pressed(ord("X")) && place_meeting(x,y,obj_player) && timer <
 	y_pos = obj_player.y + 15;
 	
 	milk = true;
-	ds_list_replace(got_ingre,5,true)
-	audio_play_sound(sud_pickup,0,false)
+	ds_list_replace(got_ingre,3,true)
+	audio_play_sound(sud_cow,0,false)
 }
 
 if (timer >=0) {
