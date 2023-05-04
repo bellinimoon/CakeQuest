@@ -22,6 +22,26 @@ player_startx = 704
 
 chickenCollected = 0;
 
+ds_list_clear(select_ingre);
+ds_list_clear(select_ingre2);
+ds_list_clear(got_ingre);
+ds_list_clear(got_ingre2);
+
+for (var s = 0; s<13; s++) {
+	ds_list_add(got_ingre,false);
+}
+
+for (var s = 0; s<13; s++) {
+	ds_list_add(got_ingre2,false);
+}
+
+for (var s = 0; s<13; s++) {
+	ds_list_add(select_ingre,false);
+}
+
+for (var s = 0; s<13; s++) {
+	ds_list_add(select_ingre2,false);
+}
 foodCollection = [["Apple",false],["Cherry", false],["Lemon", false],
 ["Milk", false],["Alcohol", false],["Trout", false],["Shrimp", false],
 ["Shellfish", false],["Beef", false],["Egg", false],["Chili", false],

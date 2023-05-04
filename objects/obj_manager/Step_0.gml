@@ -2,7 +2,7 @@
 if(global.start == true && ds_list_size(dialogue) == 1){
 	optionMenu = true;
 }
-
+show_debug_message(optionSelected);
 if(optionMenu){
 	if(newOption){
 		newOptions = Option(choiceAmount);
@@ -29,23 +29,29 @@ if(optionMenu){
 		selected = false;
 		room_goto(rm_end)
 		endName = "ASW";
+	}else if(optionSelected == 1){
+		optionSelected = noone;
 	}
 	
 }else if(choices == 2 && optionSelected != noone && selected == true){
 	if(optionSelected == 2){
 		selected = false;
 		extraDialogue1 = true;
+		optionSelected = noone;
 	}else{
 		selected = false;
 		extraDialogue2 = true;
+		optionSelected = noone;
 	}
 }else if(choices == 3 && optionSelected != noone && selected == true){
 	if(optionSelected == 1){
 		selected = false;
 		extraDialogue4 = true;	
+		optionSelected = noone;
 	}else{
 		selected = false;
 		extraDialogue3 = true;
+		optionSelected = noone;
 	}
 }
 
