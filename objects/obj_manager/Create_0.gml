@@ -12,5 +12,6 @@ optionMenu = false;
 optionSelected = noone;
 //when there's a option, it is true
 global.start = true;
-selected = false;
+global.selected = false;
 
+choiceSelected = true;

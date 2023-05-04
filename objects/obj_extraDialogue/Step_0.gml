@@ -12,6 +12,7 @@ Ah, didn't find anything worthy...");
 			extraDialogue1 = false;
 			global.extraDialogueOpen = true;
 			extraDialogue2 = true;
+			//optionSelected = noone;
 		}else if( ds_list_size(dialogue) == 2){
 			textBoxFace = spr_owen_face;
 		}else{
@@ -32,6 +33,7 @@ Anyway, I don't have anything for you now, go away.");
 	}else{
 		if(ds_list_size(dialogue) == 0){
 			extraDialogue2 = false;
+			//optionSelected = noone;
 			global.extraDialogueOpen = true;
 		}else{
 			textBoxFace = spr_owen_face;
@@ -53,6 +55,7 @@ Here, take this. Remember to come back here before Sunday.");
 		if(ds_list_size(dialogue) == 0){
 			extraDialogue3 = false;
 			inventoryAccess = true;
+			//optionSelected = noone;
 			global.roomName = room_get_name(room); 
 			player_startx = obj_player.x;
 			player_starty = obj_player.y;
@@ -75,6 +78,8 @@ Oh no, I forgot I don't have any money.");
 	}else{
 		if(ds_list_size(dialogue) == 0){
 			extraDialogue4 = false;
+			//optionSelected = noone;
+			//choices = 4;
 			global.extraDialogueOpen = true;
 			endName = "debtor";
 			room_goto(rm_end);

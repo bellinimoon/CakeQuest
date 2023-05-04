@@ -37,7 +37,7 @@ extraDialogue3 = false;
 globalvar extraDialogue4;
 extraDialogue4 = false;
 
-
+globalvar optionSelected;
 globalvar inventoryAccess ;
 
 

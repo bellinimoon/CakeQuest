@@ -21,6 +21,7 @@ player_starty = 220
 player_startx = 704
 
 chickenCollected = 0;
+optionSelected = noone;
 
 foodCollection = [["Apple",false],["Cherry", false],["Lemon", false],
 ["Milk", false],["Alcohol", false],["Trout", false],["Shrimp", false],
