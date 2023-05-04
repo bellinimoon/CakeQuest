@@ -43,6 +43,7 @@ Anyway, I don't have anything for you now, go away.");
 
 if(extraDialogue3 == true){
 	if(global.extraDialogueOpen == true){
+		audio_play_sound(sud_cry,0,false)
 		ds_list_add(dialogue, @"Ms. Owen
 OK, fine, I can see you won't leave me alone.");
 		ds_list_add(dialogue, @"Ms. Owen
