@@ -4,7 +4,7 @@
 if (keyboard_check_pressed(ord("X"))){
 	if(meetOwenFirst == 1){
 		ds_list_add(dialogue, @"Tom
-Didn't see you this morning.");
+Don't put a shrimp on the Barbie.");
 		ds_list_add(dialogue, @"Tom
 You'd better go find Ms. Owen in her red house to join the casserole contest.");
 		triggered = true;
