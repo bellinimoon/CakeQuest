@@ -5,17 +5,17 @@ function CalculateEnd(){
 		if(ds_list_find_value(select_ingre, i) != false){
 			emptyLists ++;
 		}else{
-			fullLists = 1;
+			fullLists  ++;
 		}
 		if(ds_list_find_value(select_ingre2, i) != false){
 			emptyLists ++;
 		}else{
-			fullLists = 1;
+			fullLists ++;
 		}
 	}
 	if(emptyLists == 0){
 		endName = "JOKER";
-	}else if(fullLists == 0){
+	}else if(fullLists == 1 && ds_list_find_value(select_ingre, 6) == false){
 		endName = "CHIEF";
 	}else if(ds_list_find_value(select_ingre, 6) == true){
 		//shrimp

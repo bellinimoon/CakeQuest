@@ -82,7 +82,7 @@ Oh no, I forgot I don't have any money.");
 			//optionSelected = noone;
 			//choices = 4;
 			global.extraDialogueOpen = true;
-			endName = "debtor";
+			endName = "DEBTOR";
 			room_goto(rm_end);
 		}else{
 			textBoxFace = spr_avatar_face;

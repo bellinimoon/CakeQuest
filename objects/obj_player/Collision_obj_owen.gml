@@ -164,6 +164,8 @@ NOOOOOOOO!");
 				room_goto(rm_end);
 			}else{
 				textBoxFace = spr_owen_face;
+				passed = true;
+				global.start = false;
 			}
 		}else if(endName == "HERD"){
 			if(ds_list_size(dialogue) == 0 && passed == true){
