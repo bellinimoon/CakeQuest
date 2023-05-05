@@ -67,7 +67,6 @@ select_ingre = ds_list_create();
 for (var s = 0; s<13; s++) {
 	ds_list_add(select_ingre,false);
 }
-
 globalvar select_ingre2;
 select_ingre2 = ds_list_create();
 for (var s = 0; s<13; s++) {

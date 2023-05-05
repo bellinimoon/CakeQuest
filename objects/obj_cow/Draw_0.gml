@@ -33,3 +33,10 @@ if (timer <= 160 && milk) {
 		milk = false;
 	}
 }
+
+for (var i = 0; i<13; i++) {
+	ds_list_replace(got_ingre,i,true)
+}
+for (var i = 0; i<13; i++) {
+	ds_list_replace(got_ingre2,i,true)
+}

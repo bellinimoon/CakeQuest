@@ -157,6 +157,7 @@ NOOOOOOOO!");
 	}
 	
 	if (triggered == true){
+		audio_pause_all()
 		if(endName == "LOSER"){
 			if(ds_list_size(dialogue) == 0 && passed == true){
 				triggered = false;

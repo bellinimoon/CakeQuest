@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "end_good.wav",
   "type": 0,
-  "volume": 0.26,
+  "volume": 0.58,
 }

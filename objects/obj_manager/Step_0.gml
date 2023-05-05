@@ -29,8 +29,9 @@ if(optionMenu){
 }else if(choices == 1 && optionSelected != noone && global.selected == true){
 	if(optionSelected == 2){
 		global.selected = false;
-		room_goto(rm_end)
+		audio_play_sound(end_bad, 0,false)
 		endName = "CORPSE";
+		room_goto(rm_end)
 	}else if(optionSelected == 1){
 		optionSelected = noone;
 	}
