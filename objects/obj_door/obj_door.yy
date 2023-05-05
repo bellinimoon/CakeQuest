@@ -27,7 +27,7 @@
   "physicsStartAwake": true,
   "properties": [
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"rm","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Map","varType":0,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"px","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"700","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"px","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"698","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"py","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"320","varType":0,},
   ],
   "solid": false,
