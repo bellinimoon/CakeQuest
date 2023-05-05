@@ -157,20 +157,21 @@ NOOOOOOOO!");
 	}
 	
 	if (triggered == true){
+		audio_pause_all()
 		if(endName == "LOSER"){
 			if(ds_list_size(dialogue) == 0 && passed == true){
 				triggered = false;
 				passed = false;	
+				audio_play_sound(end_bad, 0,false)
 				room_goto(rm_end);
 			}else{
 				textBoxFace = spr_owen_face;
-				passed = true;
-				global.start = false;
 			}
 		}else if(endName == "HERD"){
 			if(ds_list_size(dialogue) == 0 && passed == true){
 				triggered = false;
 				passed = false;	
+				audio_play_sound(end_normal, 0,false)
 				room_goto(rm_end);
 			}else if (ds_list_size(dialogue) == 1 || ds_list_size(dialogue) == 4){
 				textBoxFace = spr_owen_face;
@@ -185,6 +186,7 @@ NOOOOOOOO!");
 			if(ds_list_size(dialogue) == 0 && passed == true){
 				triggered = false;
 				passed = false;	
+				audio_play_sound(end_normal, 0,false)
 				room_goto(rm_end);
 			}else if (ds_list_size(dialogue) == 4){
 				textBoxFace = spr_owen_face;
@@ -201,6 +203,7 @@ NOOOOOOOO!");
 			if(ds_list_size(dialogue) == 0 && passed == true){
 				triggered = false;
 				passed = false;	
+				audio_play_sound(end_normal, 0,false)
 				room_goto(rm_end);
 			}else if (ds_list_size(dialogue) == 3 || ds_list_size(dialogue) == 2){
 				textBoxFace = spr_owen_face;
@@ -213,6 +216,7 @@ NOOOOOOOO!");
 			if(ds_list_size(dialogue) == 0 && passed == true){
 				triggered = false;
 				passed = false;	
+				audio_play_sound(end_good, 0,false)
 				room_goto(rm_end);
 			}else if (ds_list_size(dialogue) == 1){
 				textBoxFace = spr_avatar_face;
@@ -231,6 +235,7 @@ NOOOOOOOO!");
 			if(ds_list_size(dialogue) == 0 && passed == true){
 				triggered = false;
 				passed = false;	
+				audio_play_sound(end_bad, 0,false)
 				room_goto(rm_end);
 			}else if (ds_list_size(dialogue) == 1){
 				textBoxFace = spr_avatar_face;
@@ -247,6 +252,7 @@ NOOOOOOOO!");
 			if(ds_list_size(dialogue) == 0 && passed == true){
 				triggered = false;
 				passed = false;	
+				audio_play_sound(end_good, 0,false)
 				room_goto(rm_end);
 			}else if (ds_list_size(dialogue) == 1){
 				textBoxFace = spr_avatar_face;
@@ -265,6 +271,7 @@ NOOOOOOOO!");
 			if(ds_list_size(dialogue) == 0 && passed == true){
 				triggered = false;
 				passed = false;	
+				audio_play_sound(end_bad, 0,false)
 				room_goto(rm_end);
 			}else if (ds_list_size(dialogue) == 1 || ds_list_size(dialogue) == 3){
 				textBoxFace = spr_avatar_face;

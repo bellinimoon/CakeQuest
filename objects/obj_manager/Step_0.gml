@@ -29,6 +29,8 @@ if(optionMenu){
 }else if(choices == 1 && optionSelected != noone && global.selected == true){
 	if(optionSelected == 2){
 		global.selected = false;
+		audio_pause_all()
+			audio_play_sound(end_bad,0,false)
 		room_goto(rm_end)
 		endName = "CORPSE";
 	}else if(optionSelected == 1){
