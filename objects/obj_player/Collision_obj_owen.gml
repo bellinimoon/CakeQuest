@@ -62,15 +62,12 @@ I'd like something that reminds me of home, I will tell you this.");
 	if (keyboard_check_pressed(ord("X"))){
 		if(endName == "LOSER"){
 			ds_list_add(dialogue, @"Ms. Owen
-Rowan, come on; you can do better than this. I don’t even want to dip my tongue in there.");
+Rowan, come on; you can do better than this. I don't even want to dip my tongue in there.");
 			ds_list_add(dialogue, @"Ms. Owen
-This is the most discouraging thing I’ve tasted my whole life, and I’ve been here quite a while. 
+This is the most discouraging thing I’ve tasted my whole life, and I've been here quite a while. 
 ");
 			ds_list_add(dialogue, @"Ms. Owen
 Kick him out. What a loser.");
-
-			audio_play_sound(end_bad,0,false)
-			
 			triggered = true;
 		}else if(endName == "HERD"){
 			ds_list_add(dialogue, @"Ms. Owen
@@ -82,38 +79,32 @@ Mother, I daresay this IS water. Nothing can be purer.
 That's an insult! I've literally put TONES OF things in there.");
 			ds_list_add(dialogue, @"Ms. Owen
 OH? Then you already have TONES OF comic books. What a waste of time.");
-			
-			audio_play_sound(end_normal,0,false)
-			
 			triggered = true;
 		}else if(endName == "BOURGEOIS"){
 			ds_list_add(dialogue, @"Ms. Owen
-I can see you put in some effort… But this is nothing compared to Newton’s brilliant casserole.
+I can see you put in some effort... But this is nothing compared to Newton's brilliant casserole.
 ");
 			ds_list_add(dialogue, @"Rowan
-That’s unfair! He’s your son, and he doesn’t care about comic books.
+That's unfair! He's your son, and he doesn’t care about comic books.
 ");
 			ds_list_add(dialogue, @"Newton
-You’ve tried, but how could ever understand the beauty of the universe like me? Better luck next time.");
+You've tried, but how could ever understand the beauty of the universe like me? Better luck next time.");
 			ds_list_add(dialogue, @"Emma
-It’s ok, Rowan; I used to cook like this when I was 6 years old.");
-			
-			audio_play_sound(end_normal,0,false)
+It's ok, Rowan; I used to cook like this when I was 6 years old.");
 			triggered = true;
 		}else if(endName == "NERD"){
 			ds_list_add(dialogue, @"Ms. Owen
-YAH, I do think this qualifies. Not the best thing I’ve tasted, but ok, you can be a winner. 
+YAH, I do think this qualifies. Not the best thing I've tasted, but ok, you can be a winner. 
 ");
 			ds_list_add(dialogue, @"Ms. Owen
-You’ll have to divide my books with Newton tho. It’s hard to tell the difference between your casseroles and his.
+You'll have to divide my books with Newton tho. It's hard to tell the difference between your casseroles and his.
 ");
 			ds_list_add(dialogue, @"Rowan
-Well, ok, not what I hoped for, but I’ll take it. Still a lot of comic books I can read!");
-			audio_play_sound(end_normal,0,false)
+Well, ok, not what I hoped for, but I'll take it. Still a lot of comic books I can read!");
 			triggered = true;
 		}else if(endName == "WINNER"){
 			ds_list_add(dialogue, @"Ms. Owen
-Undoubtedly this is the best casserole I’ve tasted in years ever since my neighbor moved away.");
+Undoubtedly this is the best casserole I've tasted in years ever since my neighbor moved away.");
 			ds_list_add(dialogue, @"Ms. Owen
 She used to cook this casserole for her dog, and I loved it so much that I fought with the dog to eat it.");
 			ds_list_add(dialogue, @"Ms. Owen
@@ -126,18 +117,16 @@ God bless the new king of comic books!");
 God bless the new king of comic books!");
 			ds_list_add(dialogue, @"Rowan
 Yeyyy my dream has come true!");
-			audio_play_sound(end_good,0,false)
 			triggered = true;
 		}else if(endName == "POISONER"){
 			ds_list_add(dialogue,@"Ms. Owen
 What.. What.. have.. you... Done!");
 			ds_list_add(dialogue, @"Newton
-Mother! Hang on there! I’ve called the ambulance already.");
+Mother! Hang on there! I've called the ambulance already.");
 			ds_list_add(dialogue, @"Tom
-Sick, bro, Did you put shrimp? Ms.Owen’s very much allergic to it, didn't I tell you that?");
+Sick, bro, Did you put shrimp? Ms.Owen's very much allergic to it, didn't I tell you that?");
 			ds_list_add(dialogue, @"Rowan
 ???");
-			audio_play_sound(end_bad,0,false)
 			triggered = true;
 		}else if(endName == "CHIEF"){
 			ds_list_add(dialogue, @"Ms. Owen
@@ -151,8 +140,7 @@ Rowan, you are a rising^tar in culinary arts! I insist you must become a world-r
 			ds_list_add(dialogue, @"Tom
 EMMM, yum! I voluntarily recede from the competition. How could I ever compete with this?");
 			ds_list_add(dialogue, @"Rowan
-What can I say? By this point, I have no interest in comic books anymore. I’ve discovered my true talent!.");
-			
+What can I say? By this point, I have no interest in comic books anymore. I've discovered my true talent!.");
 			triggered = true;
 		}else{//joker
 			show_debug_message(endName);
@@ -174,10 +162,6 @@ NOOOOOOOO!");
 				triggered = false;
 				passed = false;	
 				room_goto(rm_end);
-			}else if (ds_list_size(dialogue) == 1 || ds_list_size(dialogue) == 3){
-				textBoxFace = spr_avatar_face;
-				passed = true;
-				global.start = false;
 			}else{
 				textBoxFace = spr_owen_face;
 			}
