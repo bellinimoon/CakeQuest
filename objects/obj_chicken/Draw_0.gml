@@ -5,17 +5,17 @@ draw_set_halign(fa_center)
 draw_set_color(c_white)
 draw_self();
 if(place_meeting(x,y,obj_player)){
-	if(chickenCollected == 5 && keyboard_check_pressed(mb_left)){
-		draw_text_transformed(x,y-20,"Who knows what species of eggs this is.",0.2,0.2,0)
+	if(chickenCollected == 5) {
+		draw_text_transformed(x,y-20,"Thanks, press x to collect my egg.",0.2,0.2,0)
+		if (keyboard_check_pressed(mb_left)){
 		alpha = 1;
 		y_pos = obj_player.y + 15;
 	
 		egg = true;
 		ds_list_replace(got_ingre,9,true)
 		audio_play_sound(sud_pickup,0,false)
-	}else if(chickenCollected == 5){
-		 draw_text_transformed(x,y-20,"Thanks, press x to collect my egg.",0.2,0.2,0)		
-	}else{
+		}
+	}	else{
 		draw_text_transformed(x,y-20,@"Go find my baby ducks first, 
 press x to collect",0.2,0.2,0)
 	}
