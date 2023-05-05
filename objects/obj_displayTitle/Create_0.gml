@@ -15,7 +15,15 @@ extraDialogue2 = false;
 extraDialogue3 = false;
 extraDialogue4 = false;
 
+cookFinished = false;
+emptyLists = 0;
+fullLists = 0;
 inventoryAccess = false;
+
+
+destroyNewton = false;
+destroyEmma = false;
+destroyTom = false;
 
 player_starty = 220
 player_startx = 704

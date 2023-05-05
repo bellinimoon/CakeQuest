@@ -2,14 +2,24 @@ globalvar dialogue;
 globalvar choices;
 choices = 0;
 dialogue = ds_list_create()
-//ds_list_add(dialogue, @"Rowan
-//Here I go succeeding the throne of the king of comic books! I need to go to Ms.Owen's home NOW!");
-//ds_list_add(dialogue, @"Rowan
-//It's just on the right side of my house, so it shouldn't take long!");
-//ds_list_add(dialogue, @"Rowan
-//But first of all, let me leave my house!");
-//ds_list_add(dialogue, @"Ready?");
 
+globalvar emptyLists;
+globalvar fullLists;
+emptyLists = 0;
+fullLists = 0;
+
+
+globalvar destroyTom;
+destroyTom = false;
+globalvar destroyEmma;
+destroyEmma = false;
+globalvar destroyNewton;
+destroyNewton = false;
+
+
+
+globalvar cookFinished;
+cookFinished = false;
 globalvar endName;
 
 globalvar textBoxFace;

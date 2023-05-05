@@ -231,6 +231,7 @@
     {"id":{"name":"Adam_idle_16x16","path":"sprites/Adam_idle_16x16/Adam_idle_16x16.yy",},},
     {"id":{"name":"rm_startmenu","path":"rooms/rm_startmenu/rm_startmenu.yy",},},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},},
+    {"id":{"name":"CalculateEnd","path":"scripts/CalculateEnd/CalculateEnd.yy",},},
     {"id":{"name":"campfire_48x4842","path":"sprites/campfire_48x4842/campfire_48x4842.yy",},},
     {"id":{"name":"TileSet_room","path":"tilesets/TileSet_room/TileSet_room.yy",},},
     {"id":{"name":"obj_egg","path":"objects/obj_egg/obj_egg.yy",},},

@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (keyboard_check_pressed(ord("X"))){
+if (keyboard_check_pressed(ord("X")) && cookFinished == false  && instance_place(x, y, obj_newton) == inst_691EF27D){
 	if(meetOwenFirst != 3){
 		ds_list_add(dialogue, @"Newton
 I can calculate the motion of heavenly bodies but not the madness of people.");

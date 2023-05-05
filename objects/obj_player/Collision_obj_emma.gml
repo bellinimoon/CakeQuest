@@ -1,10 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (keyboard_check_pressed(ord("X"))){
+if (keyboard_check_pressed(ord("X")) && cookFinished == false && instance_place(x, y, obj_emma) == inst_502F5254){
 	if(meetOwenFirst == 1){
 		ds_list_add(dialogue, @"Emma
-Kinda busy making chocolate rn，");
+Kinda busy making chocolate rn.");
 		ds_list_add(dialogue, @"Emma
 Ms. Owen's in the red house if you are looking for her.");
 		triggered = true;

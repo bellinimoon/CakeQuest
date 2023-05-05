@@ -57,6 +57,7 @@
     {"name":"spr_start","order":3,"path":"sprites/spr_start/spr_start.yy",},
     {"name":"obj_displayTitle","order":5,"path":"objects/obj_displayTitle/obj_displayTitle.yy",},
     {"name":"obj_start","order":4,"path":"objects/obj_start/obj_start.yy",},
+    {"name":"CalculateEnd","order":1,"path":"scripts/CalculateEnd/CalculateEnd.yy",},
     {"name":"obj_egg","order":7,"path":"objects/obj_egg/obj_egg.yy",},
     {"name":"spr_selectBoxS","order":1,"path":"sprites/spr_selectBoxS/spr_selectBoxS.yy",},
     {"name":"obj_milk","order":1,"path":"objects/obj_milk/obj_milk.yy",},
