@@ -27,7 +27,7 @@ if (egg) {
 	y_pos -= 0.5;
 	draw_set_halign(fa_center)
 	draw_set_color(c_white)
-	draw_text_transformed(obj_player.x + 40,y_pos,"Egg + 1",0.2,0.2,0);
+	draw_text_transformed(obj_player.x + 40,y_pos,"Milk + 1",0.2,0.2,0);
 	draw_sprite_ext(spr_food_egg,0, obj_player.x + 40,y_pos-10, 0.2, 0.2,0,c_white,alpha)
 
 	if (alpha < 0) {
