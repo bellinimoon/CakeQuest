@@ -68,6 +68,9 @@ This is the most discouraging thing I’ve tasted my whole life, and I’ve been
 ");
 			ds_list_add(dialogue, @"Ms. Owen
 Kick him out. What a loser.");
+
+			audio_play_sound(end_bad,0,false)
+			
 			triggered = true;
 		}else if(endName == "HERD"){
 			ds_list_add(dialogue, @"Ms. Owen
@@ -79,6 +82,9 @@ Mother, I daresay this IS water. Nothing can be purer.
 That's an insult! I've literally put TONES OF things in there.");
 			ds_list_add(dialogue, @"Ms. Owen
 OH? Then you already have TONES OF comic books. What a waste of time.");
+			
+			audio_play_sound(end_normal,0,false)
+			
 			triggered = true;
 		}else if(endName == "BOURGEOIS"){
 			ds_list_add(dialogue, @"Ms. Owen
@@ -91,6 +97,8 @@ That’s unfair! He’s your son, and he doesn’t care about comic books.
 You’ve tried, but how could ever understand the beauty of the universe like me? Better luck next time.");
 			ds_list_add(dialogue, @"Emma
 It’s ok, Rowan; I used to cook like this when I was 6 years old.");
+			
+			audio_play_sound(end_normal,0,false)
 			triggered = true;
 		}else if(endName == "NERD"){
 			ds_list_add(dialogue, @"Ms. Owen
@@ -101,6 +109,7 @@ You’ll have to divide my books with Newton tho. It’s hard to tell the differ
 ");
 			ds_list_add(dialogue, @"Rowan
 Well, ok, not what I hoped for, but I’ll take it. Still a lot of comic books I can read!");
+			audio_play_sound(end_normal,0,false)
 			triggered = true;
 		}else if(endName == "WINNER"){
 			ds_list_add(dialogue, @"Ms. Owen
@@ -117,6 +126,7 @@ God bless the new king of comic books!");
 God bless the new king of comic books!");
 			ds_list_add(dialogue, @"Rowan
 Yeyyy my dream has come true!");
+			audio_play_sound(end_good,0,false)
 			triggered = true;
 		}else if(endName == "POISONER"){
 			ds_list_add(dialogue,@"Ms. Owen
@@ -127,6 +137,7 @@ Mother! Hang on there! I’ve called the ambulance already.");
 Sick, bro, Did you put shrimp? Ms.Owen’s very much allergic to it, didn't I tell you that?");
 			ds_list_add(dialogue, @"Rowan
 ???");
+			audio_play_sound(end_bad,0,false)
 			triggered = true;
 		}else if(endName == "CHIEF"){
 			ds_list_add(dialogue, @"Ms. Owen
@@ -141,6 +152,7 @@ Rowan, you are a rising^tar in culinary arts! I insist you must become a world-r
 EMMM, yum! I voluntarily recede from the competition. How could I ever compete with this?");
 			ds_list_add(dialogue, @"Rowan
 What can I say? By this point, I have no interest in comic books anymore. I’ve discovered my true talent!.");
+			
 			triggered = true;
 		}else{//joker
 			show_debug_message(endName);
