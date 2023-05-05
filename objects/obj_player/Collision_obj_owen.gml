@@ -64,7 +64,7 @@ I'd like something that reminds me of home, I will tell you this.");
 			ds_list_add(dialogue, @"Ms. Owen
 Rowan, come on; you can do better than this. I don't even want to dip my tongue in there.");
 			ds_list_add(dialogue, @"Ms. Owen
-This is the most discouraging thing I’ve tasted my whole life, and I've been here quite a while. 
+This is the most discouraging thing I've tasted my whole life, and I've been here quite a while. 
 ");
 			ds_list_add(dialogue, @"Ms. Owen
 Kick him out. What a loser.");
@@ -162,8 +162,10 @@ NOOOOOOOO!");
 			if(ds_list_size(dialogue) == 0 && passed == true){
 				triggered = false;
 				passed = false;	
-				audio_play_sound(end_bad, 0,false)
 				room_goto(rm_end);
+				audio_play_sound(end_bad, 0,false)
+				passed = true;
+				global.start = false;
 			}else{
 				textBoxFace = spr_owen_face;
 			}
